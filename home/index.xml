@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Minh Tang</title>
+    <link>itmfl.github.io/home/</link>
+    <description>Recent content in Homes on Minh Tang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="itmfl.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>itmfl.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>itmfl.github.io/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forthcoming Publications</title>
+      <link>itmfl.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>itmfl.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>itmfl.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>itmfl.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preprints</title>
+      <link>itmfl.github.io/home/preprints/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>itmfl.github.io/home/preprints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>itmfl.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>itmfl.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>itmfl.github.io/home/teaching/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>itmfl.github.io/home/teaching/</guid>
+      <description> Fall 2019  Introduction to Data Science CSC 442/ST 442  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>itmfl.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>itmfl.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>itmfl.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>itmfl.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
