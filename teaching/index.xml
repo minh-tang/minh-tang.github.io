@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Introduction to Data Science</title>
+      <link>minh-tang.github.io/teaching/intro_ds/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>minh-tang.github.io/teaching/intro_ds/</guid>
+      <description>Course description Overview of data structures, data lifecycle, statistical inference. Data management, queries, data cleaning, data wrangling. Classification and prediction methods to include linear regression, logistic regression, k-nearest neighbors, classification and regression trees. Association analysis. Clustering methods. Emphasis on analyzing data, programming in R, and comparing methods.
+Instructors and TA  Minh Tang (mtang8 dot ncsu dot edu)  Office Hours: Wednesday 10am&amp;ndash;12pm in SAS Hall 5236.  Miao Yu (myu12 at ncsu dot edu)  Office Hours: Tuesday 12:30pm&amp;ndash;2:30pm in SAS Hall 1106.</description>
+    </item>
+    
+    <item>
       <title>Statistical inference on graphs</title>
       <link>minh-tang.github.io/teaching/stat_graph/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
