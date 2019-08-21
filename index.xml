@@ -11,6 +11,160 @@
     <atom:link href="minh-tang.github.io/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Introduction to Data Science</title>
+      <link>minh-tang.github.io/teaching/intro_ds/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>minh-tang.github.io/teaching/intro_ds/</guid>
+      <description>
+
+&lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
+
+&lt;p&gt;Overview of data structures, data lifecycle, statistical inference. Data
+management, queries, data cleaning, data wrangling. Classification and
+prediction methods to include linear regression, logistic regression, k-nearest
+neighbors, classification and regression trees. Association analysis.
+Clustering methods. Emphasis on analyzing data, programming in R, and comparing
+methods.&lt;/p&gt;
+
+&lt;h2 id=&#34;instructors-and-ta&#34;&gt;Instructors and TA&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Minh Tang (mtang8 dot ncsu dot edu)
+
+&lt;ul&gt;
+&lt;li&gt;Office Hours: Wednesday 10am&amp;ndash;12pm in SAS Hall 5236.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Miao Yu (myu12 at ncsu dot edu)
+
+&lt;ul&gt;
+&lt;li&gt;Office Hours: Tuesday 12:30pm&amp;ndash;2:30pm in SAS Hall 1106.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;syllabus-and-tentative-schedule&#34;&gt;Syllabus and tentative schedule&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Topics&lt;/th&gt;
+&lt;th&gt;Lecture Notes&lt;/th&gt;
+&lt;th&gt;Readings&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;08/22&lt;/td&gt;
+&lt;td&gt;Introduction and overview&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;minh-tang.github.io/slides/overview&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://projecteuclid.org/euclid.aoms/1177704711&#34; target=&#34;_blank&#34;&gt;Tukey&lt;/a&gt;, &lt;a href=&#34;https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf&#34; target=&#34;_blank&#34;&gt;Donoho&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;08/27 &amp;ndash; 08/29&lt;/td&gt;
+&lt;td&gt;Data Wrangling with &lt;em&gt;R&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;minh-tang.github.io/slides/wrangling&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chapter 2 of &lt;a href=&#34;https://r4ds.had.co.nz&#34; target=&#34;_blank&#34;&gt;R4DS&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;09/03 &amp;ndash; 09/05&lt;/td&gt;
+&lt;td&gt;Visualizing data with &lt;em&gt;ggplot2&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;minh-tang.github.io/slides/visualization&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chapter 3 of &lt;a href=&#34;https://r4ds.had.co.nz&#34; target=&#34;_blank&#34;&gt;R4DS&lt;/a&gt;, Chapter 3 of &lt;a href=&#34;https://socviz.co&#34; target=&#34;_blank&#34;&gt;Data Visualization&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;09/10 &amp;ndash; 09/17&lt;/td&gt;
+&lt;td&gt;Tidy data with tidyr&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;minh-tang.github.io/slides/tidyr&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chapter 5&amp;amp;6 of &lt;a href=&#34;https://beanumber.github.io/mdsr2e/&#34; target=&#34;_blank&#34;&gt;MDSR&lt;/a&gt;, Chapter 12 &amp;amp; 13 of &lt;a href=&#34;https://r4ds.had.co.nz&#34; target=&#34;_blank&#34;&gt;R4DS&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;09/19 &amp;ndash; 09/24&lt;/td&gt;
+&lt;td&gt;Strings with stringr&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;minh-tang.github.io/slides/strings&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chapter 14 of &lt;a href=&#34;https://r4ds.had.co.nz&#34; target=&#34;_blank&#34;&gt;R4DS&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;09/26 &amp;ndash; 10/03&lt;/td&gt;
+&lt;td&gt;Prequel, SQL, &amp;amp; Interlude&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;minh-tang.github.io/slides/sql&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chapter 12 &amp;amp; 13 of &lt;a href=&#34;https://beanumber.github.io/mdsr2e/&#34; target=&#34;_blank&#34;&gt;MDSR&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10/08&lt;/td&gt;
+&lt;td&gt;Midterm 1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;minh-tang.github.io/slides/exam1.txt&#34;&gt;Exam questions&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://grannyswag.files.wordpress.com/2015/06/adams-douglas-the-hitchhikers-guide-to-the-galaxy.pdf&#34; target=&#34;_blank&#34;&gt;Hitch-hiker&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10/10&lt;/td&gt;
+&lt;td&gt;Fall-break&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5WXVaChA3Q0&#34; target=&#34;_blank&#34;&gt;Staying alive&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10/15 &amp;ndash; 10/22&lt;/td&gt;
+&lt;td&gt;Linear models &amp;amp; Scatterplot smoothing&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;minh-tang.github.io/slides/scatter&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chapter 3 &amp;amp; 7 of &lt;a href=&#34;http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf&#34; target=&#34;_blank&#34;&gt;ISL&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10/24 &amp;ndash; 10/31&lt;/td&gt;
+&lt;td&gt;Classification, k-NN, logistic regression &amp;amp; LDA&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;minh-tang.github.io/slides/classification&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chapter 4 of &lt;a href=&#34;http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf&#34; target=&#34;_blank&#34;&gt;ISL&lt;/a&gt;, &lt;a href=&#34;https://projecteuclid.org/euclid.ss/1009213726&#34; target=&#34;_blank&#34;&gt;Breiman&lt;/a&gt;, &lt;a href=&#34;https://projecteuclid.org/euclid.ss/1149600839&#34; target=&#34;_blank&#34;&gt;Hand&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11/05 &amp;ndash; 11/07&lt;/td&gt;
+&lt;td&gt;Bootstrapping&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;minh-tang.github.io/slides/bootstrapping&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11/12&lt;/td&gt;
+&lt;td&gt;Decision Tree&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;minh-tang.github.io/slides/trees&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chapter 8 of &lt;a href=&#34;http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf&#34; target=&#34;_blank&#34;&gt;ISL&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11/14&lt;/td&gt;
+&lt;td&gt;Midterm 2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11/19 &amp;ndash; 11/26&lt;/td&gt;
+&lt;td&gt;Support vector machine&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;minh-tang.github.io/slides/svm&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chapter 9 of &lt;a href=&#34;http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf&#34; target=&#34;_blank&#34;&gt;ISL&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12/03 &amp;ndash; 12/05&lt;/td&gt;
+&lt;td&gt;PCA/MDS/k-Means&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;minh-tang.github.io/slides/unsupervised&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chapter 10 of &lt;a href=&#34;http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf&#34; target=&#34;_blank&#34;&gt;ISL&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Statistical inference on graphs</title>
       <link>minh-tang.github.io/teaching/stat_graph/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
@@ -424,15 +578,6 @@ and &lt;a href=&#34;http://e-catalog.jhu.edu/departments-program-requirements-an
       <pubDate>Thu, 31 Aug 2017 02:02:53 -0400</pubDate>
       
       <guid>minh-tang.github.io/publication/kato_temple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A nonparametric two-sample hypothesis testing problem for random dot product graphs</title>
-      <link>minh-tang.github.io/publication/nonpar/</link>
-      <pubDate>Tue, 01 Aug 2017 01:13:39 -0400</pubDate>
-      
-      <guid>minh-tang.github.io/publication/nonpar/</guid>
       <description></description>
     </item>
     
