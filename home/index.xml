@@ -1,86 +1,86 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Minh Tang</title>
-    <link>minh-tang.github.io/home/</link>
+    <link>itmfl.github.io/home/</link>
     <description>Recent content in Homes on Minh Tang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Aug 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="minh-tang.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="itmfl.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>minh-tang.github.io/home/about/</link>
+      <link>itmfl.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>minh-tang.github.io/home/about/</guid>
+      <guid>itmfl.github.io/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forthcoming Publications</title>
-      <link>minh-tang.github.io/home/publications_selected/</link>
+      <link>itmfl.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>minh-tang.github.io/home/publications_selected/</guid>
+      <guid>itmfl.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>minh-tang.github.io/home/publications/</link>
+      <link>itmfl.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>minh-tang.github.io/home/publications/</guid>
+      <guid>itmfl.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preprints</title>
-      <link>minh-tang.github.io/home/preprints/</link>
+      <link>itmfl.github.io/home/preprints/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>minh-tang.github.io/home/preprints/</guid>
+      <guid>itmfl.github.io/home/preprints/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>minh-tang.github.io/home/talks/</link>
+      <link>itmfl.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>minh-tang.github.io/home/talks/</guid>
+      <guid>itmfl.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>minh-tang.github.io/home/teaching/</link>
+      <link>itmfl.github.io/home/teaching/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>minh-tang.github.io/home/teaching/</guid>
-      <description> Fall 2019  Introduction to Data Science CSC 442/ST 442  </description>
+      <guid>itmfl.github.io/home/teaching/</guid>
+      <description>Fall 2018  Statistical inference on graphs EN.553.742; co-instructor with Avanti Athreya  graduate level course on topics in random matrix, graph theory, and statistics.   Applied statistics and data analysis (EN.553.413 and EN.553.613)  advanced undergraduates &amp;amp; graduate level course on (generalized) linear models also offered in Fall 2013 through Fall 2017    Previous semesters  Applied statistics and data analysis II (EN.553.414 and EN.553.614)  graduate level course on semiparametric/non-parametric regression and generalized linear mixed effects models offered in 2017 and 2018 (Spring semester)   Topics in statistical pattern recognition (EN.</description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>minh-tang.github.io/home/tags/</link>
+      <link>itmfl.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>minh-tang.github.io/home/tags/</guid>
+      <guid>itmfl.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>minh-tang.github.io/home/contact/</link>
+      <link>itmfl.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>minh-tang.github.io/home/contact/</guid>
+      <guid>itmfl.github.io/home/contact/</guid>
       <description></description>
     </item>
     

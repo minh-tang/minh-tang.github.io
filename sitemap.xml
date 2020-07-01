@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
   
     
   
     
     <url>
     
-      <loc>minh-tang.github.io/publication/twotruths/</loc>
+      <loc>itmfl.github.io/publication_types/2/</loc>
       <lastmod>2019-03-08T07:44:37-04:00</lastmod>
     </url>
     
@@ -16,15 +13,31 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/2toinfty_biometrika/</loc>
-      <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+      <loc>itmfl.github.io/</loc>
+      <lastmod>2019-03-08T07:44:37-04:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>minh-tang.github.io/publication/elucidation/</loc>
+      <loc>itmfl.github.io/publication/twotruths/</loc>
+      <lastmod>2019-03-08T07:44:37-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>itmfl.github.io/publication_types/</loc>
+      <lastmod>2019-03-08T07:44:37-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>itmfl.github.io/publication/elucidation/</loc>
       <lastmod>2018-08-24T07:44:37-04:00</lastmod>
     </url>
     
@@ -32,7 +45,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/lseclt/</loc>
+      <loc>itmfl.github.io/publication/lseclt/</loc>
       <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -40,7 +53,23 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/grdpg/</loc>
+      <loc>itmfl.github.io/teaching/</loc>
+      <lastmod>2018-08-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>itmfl.github.io/publication/2toinfty_biometrika/</loc>
+      <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>itmfl.github.io/publication_types/4/</loc>
       <lastmod>2018-07-29T01:49:28-04:00</lastmod>
     </url>
     
@@ -48,7 +77,15 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/rdpg_jmlr/</loc>
+      <loc>itmfl.github.io/publication/grdpg/</loc>
+      <lastmod>2018-07-29T01:49:28-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>itmfl.github.io/publication/rdpg_jmlr/</loc>
       <lastmod>2018-07-01T01:56:34-04:00</lastmod>
     </url>
     
@@ -56,7 +93,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/2_to_infty/</loc>
+      <loc>itmfl.github.io/publication/2_to_infty/</loc>
       <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -64,7 +101,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/latent_structure_model/</loc>
+      <loc>itmfl.github.io/publication/latent_structure_model/</loc>
       <lastmod>2018-06-22T01:53:46-04:00</lastmod>
     </url>
     
@@ -72,7 +109,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/cmds_clt/</loc>
+      <loc>itmfl.github.io/publication/cmds_clt/</loc>
       <lastmod>2018-04-02T11:24:41-04:00</lastmod>
     </url>
     
@@ -80,7 +117,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/eigenval_sbm/</loc>
+      <loc>itmfl.github.io/publication/eigenval_sbm/</loc>
       <lastmod>2018-03-30T01:28:25-04:00</lastmod>
     </url>
     
@@ -88,7 +125,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/ase_efficiency/</loc>
+      <loc>itmfl.github.io/publication/ase_efficiency/</loc>
       <lastmod>2017-10-30T01:18:28-04:00</lastmod>
     </url>
     
@@ -96,7 +133,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/omni/</loc>
+      <loc>itmfl.github.io/publication/omni/</loc>
       <lastmod>2017-09-30T11:00:21-04:00</lastmod>
     </url>
     
@@ -104,7 +141,15 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/kato_temple/</loc>
+      <loc>itmfl.github.io/publication/lseoos/</loc>
+      <lastmod>2017-09-30T11:00:21-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>itmfl.github.io/publication/kato_temple/</loc>
       <lastmod>2017-08-31T02:02:53-04:00</lastmod>
     </url>
     
@@ -112,7 +157,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/nonpar/</loc>
+      <loc>itmfl.github.io/publication/nonpar/</loc>
       <lastmod>2017-08-01T01:13:39-04:00</lastmod>
     </url>
     
@@ -120,7 +165,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/robust_llg/</loc>
+      <loc>itmfl.github.io/publication/robust_llg/</loc>
       <lastmod>2017-07-31T11:21:45-04:00</lastmod>
     </url>
     
@@ -128,7 +173,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/semipar/</loc>
+      <loc>itmfl.github.io/publication/semipar/</loc>
       <lastmod>2017-04-09T01:04:54-04:00</lastmod>
     </url>
     
@@ -136,7 +181,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/hsbm_tnse/</loc>
+      <loc>itmfl.github.io/publication/hsbm_tnse/</loc>
       <lastmod>2017-03-31T02:06:19-04:00</lastmod>
     </url>
     
@@ -144,7 +189,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/post/</loc>
+      <loc>itmfl.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -152,7 +197,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/</loc>
+      <loc>itmfl.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -160,7 +205,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/talk/</loc>
+      <loc>itmfl.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -168,7 +213,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/sbm_ejs/</loc>
+      <loc>itmfl.github.io/publication/sbm_ejs/</loc>
       <lastmod>2016-06-01T09:53:00-04:00</lastmod>
     </url>
     
@@ -176,7 +221,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/ase_clt/</loc>
+      <loc>itmfl.github.io/publication/ase_clt/</loc>
       <lastmod>2016-01-31T11:29:04-04:00</lastmod>
     </url>
     
@@ -184,7 +229,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/errorful_jcgs/</loc>
+      <loc>itmfl.github.io/publication/errorful_jcgs/</loc>
       <lastmod>2015-12-31T11:33:11-04:00</lastmod>
     </url>
     
@@ -192,7 +237,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/gcca_jmva/</loc>
+      <loc>itmfl.github.io/publication/gcca_jmva/</loc>
       <lastmod>2014-09-01T11:52:03-04:00</lastmod>
     </url>
     
@@ -200,7 +245,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/perfect_ejs/</loc>
+      <loc>itmfl.github.io/publication/perfect_ejs/</loc>
       <lastmod>2014-09-01T11:46:53-04:00</lastmod>
     </url>
     
@@ -208,7 +253,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/locality_tsp/</loc>
+      <loc>itmfl.github.io/publication/locality_tsp/</loc>
       <lastmod>2014-02-01T11:58:26-04:00</lastmod>
     </url>
     
@@ -216,7 +261,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/tsp_tpami/</loc>
+      <loc>itmfl.github.io/publication/tsp_tpami/</loc>
       <lastmod>2014-01-31T12:02:28-04:00</lastmod>
     </url>
     
@@ -224,7 +269,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/multiscale/</loc>
+      <loc>itmfl.github.io/publication/multiscale/</loc>
       <lastmod>2013-07-31T12:08:31-04:00</lastmod>
     </url>
     
@@ -232,7 +277,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/tsp_aos/</loc>
+      <loc>itmfl.github.io/publication/tsp_aos/</loc>
       <lastmod>2013-07-01T00:00:00-04:00</lastmod>
     </url>
     
@@ -240,7 +285,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/tlpp_tsp/</loc>
+      <loc>itmfl.github.io/publication/tlpp_tsp/</loc>
       <lastmod>2013-04-01T12:15:01-04:00</lastmod>
     </url>
     
@@ -248,7 +293,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/gcca_prl/</loc>
+      <loc>itmfl.github.io/publication/gcca_prl/</loc>
       <lastmod>2013-01-15T12:22:13-04:00</lastmod>
     </url>
     
@@ -256,7 +301,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/fstvp/</loc>
+      <loc>itmfl.github.io/publication/fstvp/</loc>
       <lastmod>2013-01-15T12:18:46-04:00</lastmod>
     </url>
     
@@ -264,7 +309,7 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication/stfp/</loc>
+      <loc>itmfl.github.io/publication/stfp/</loc>
       <lastmod>2012-10-01T00:00:00-04:00</lastmod>
     </url>
     
@@ -272,61 +317,14 @@
     
     <url>
     
-      <loc>minh-tang.github.io/publication_types/2/</loc>
-      <lastmod>2019-03-08T07:44:37-04:00</lastmod>
-      <priority>0</priority>
+      <loc>itmfl.github.io/categories/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>minh-tang.github.io/publication_types/4/</loc>
-      <lastmod>2018-07-29T01:49:28-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>minh-tang.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>minh-tang.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>minh-tang.github.io/publication_types/</loc>
-      <lastmod>2019-03-08T07:44:37-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>minh-tang.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>minh-tang.github.io/teaching/</loc>
-      <lastmod>2018-08-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
+      <loc>itmfl.github.io/tags/</loc>
     </url>
     
   
