@@ -15,7 +15,7 @@
     <item>
       <title>Statistical inference on graphs</title>
       <link>/teaching/stat_graph/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/teaching/stat_graph/</guid>
       <description>&lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
 &lt;p&gt;The course provides an introduction to and overview of current research in
@@ -28,31 +28,7 @@ and classification in networks; and multi-sample hypothesis testing for graphs.
 Emphasis will be on a framework for establishing classical
 properties&amp;mdash;consistency, normality, and efficiency&amp;mdash;for estimators of graph
 parameters. Students will read papers in the literature and are expected to
-participate actively in class. Recommended prerequisites 
-&lt;a href=&#34;http://e-catalog.jhu.edu/departments-program-requirements-and-courses/engineering/applied-mathematics-statistics/#courseinventory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EN.553.792&lt;/a&gt;
-and 
-&lt;a href=&#34;http://e-catalog.jhu.edu/departments-program-requirements-and-courses/engineering/applied-mathematics-statistics/#courseinventory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EN.553.630&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;instructors-and-ta&#34;&gt;Instructors and TA&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://engineering.jhu.edu/ams/faculty/avanti-athreya/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Avanti Athreya&lt;/a&gt;. Email: dathrey1 dot jhu dot edu
-&lt;ul&gt;
-&lt;li&gt;Office Hours: Monday 3pm&amp;ndash;5pm in Whitehead Hall 306D&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.cis.jhu.edu/~minh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minh Tang&lt;/a&gt;. Email: mtang10 dot jhu dot edu
-&lt;ul&gt;
-&lt;li&gt;Office Hours: Friday 2pm&amp;ndash;4pm in Whitehead Hall 306E&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://pages.jh.edu/~jcape1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshua Cape&lt;/a&gt;. Email: jcape1 dot jhu dot edu
-&lt;ul&gt;
-&lt;li&gt;Office Hours: TBD in Whitehead 212&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+participate actively in class.&lt;/p&gt;
 &lt;h2 id=&#34;syllabus-and-tentative-schedule&#34;&gt;Syllabus and tentative schedule&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -258,19 +234,22 @@ and
 &lt;tr&gt;
 &lt;td&gt;11/05&lt;/td&gt;
 &lt;td&gt;Universal singula value thresholding&lt;/td&gt;
-&lt;td&gt;[Chatterjee] (&lt;a href=&#34;https://arxiv.org/abs/1212.1247),&#34;&gt;https://arxiv.org/abs/1212.1247),&lt;/a&gt; 
+&lt;td&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1212.1247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chatterjee&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1709.03183&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xu&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11/07&lt;/td&gt;
 &lt;td&gt;Universal singula value thresholding (day 2)&lt;/td&gt;
-&lt;td&gt;[Chatterjee] (&lt;a href=&#34;https://arxiv.org/abs/1212.1247),&#34;&gt;https://arxiv.org/abs/1212.1247),&lt;/a&gt; 
+&lt;td&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1212.1247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chatterjee&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1709.03183&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xu&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11/09&lt;/td&gt;
 &lt;td&gt;Universal singula value thresholding (day 3)&lt;/td&gt;
-&lt;td&gt;[Chatterjee] (&lt;a href=&#34;https://arxiv.org/abs/1212.1247),&#34;&gt;https://arxiv.org/abs/1212.1247),&lt;/a&gt; 
+&lt;td&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1212.1247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chatterjee&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1709.03183&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xu&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
