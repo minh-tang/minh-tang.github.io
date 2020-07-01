@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joshua T. Vogelstein | Academic</title>
+    <link>/author/joshua-t.-vogelstein/</link>
+      <atom:link href="/author/joshua-t.-vogelstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joshua T. Vogelstein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Mar 2019 07:44:37 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Joshua T. Vogelstein</title>
+      <link>/author/joshua-t.-vogelstein/</link>
+    </image>
+    
+    <item>
+      <title>On a &#39;two truths&#39; phenomenon in spectral graph clustering</title>
+      <link>/publication/twotruths/</link>
+      <pubDate>Fri, 08 Mar 2019 07:44:37 -0400</pubDate>
+      <guid>/publication/twotruths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical inference on random dot product graphs: a survey</title>
+      <link>/publication/rdpg_jmlr/</link>
+      <pubDate>Sun, 01 Jul 2018 01:56:34 -0400</pubDate>
+      <guid>/publication/rdpg_jmlr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust estimation from multiple graphs under gross error contamination</title>
+      <link>/publication/robust_llg/</link>
+      <pubDate>Mon, 31 Jul 2017 11:21:45 -0400</pubDate>
+      <guid>/publication/robust_llg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical inference on errorfully observed graphs</title>
+      <link>/publication/errorful_jcgs/</link>
+      <pubDate>Thu, 31 Dec 2015 11:33:11 -0400</pubDate>
+      <guid>/publication/errorful_jcgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent adjacency-spectral partitioning for the stochastic block model when the model parameters are unknown</title>
+      <link>/publication/fstvp/</link>
+      <pubDate>Tue, 15 Jan 2013 12:18:46 -0400</pubDate>
+      <guid>/publication/fstvp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

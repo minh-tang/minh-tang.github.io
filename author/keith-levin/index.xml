@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keith Levin | Academic</title>
+    <link>/author/keith-levin/</link>
+      <atom:link href="/author/keith-levin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keith Levin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 11:00:21 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Keith Levin</title>
+      <link>/author/keith-levin/</link>
+    </image>
+    
+    <item>
+      <title>Limit theorems for out-of-sample extensions of the adjacency and Laplacian spectral embeddings</title>
+      <link>/publication/lseoos/</link>
+      <pubDate>Tue, 30 Jun 2020 11:00:21 -0400</pubDate>
+      <guid>/publication/lseoos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical inference on random dot product graphs: a survey</title>
+      <link>/publication/rdpg_jmlr/</link>
+      <pubDate>Sun, 01 Jul 2018 01:56:34 -0400</pubDate>
+      <guid>/publication/rdpg_jmlr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A central limit theorem for an omnibus embedding of random dot product graphs</title>
+      <link>/publication/omni/</link>
+      <pubDate>Sat, 30 Sep 2017 11:00:21 -0400</pubDate>
+      <guid>/publication/omni/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

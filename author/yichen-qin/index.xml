@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yichen Qin | Academic</title>
+    <link>/author/yichen-qin/</link>
+      <atom:link href="/author/yichen-qin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yichen Qin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 01:56:34 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yichen Qin</title>
+      <link>/author/yichen-qin/</link>
+    </image>
+    
+    <item>
+      <title>Statistical inference on random dot product graphs: a survey</title>
+      <link>/publication/rdpg_jmlr/</link>
+      <pubDate>Sun, 01 Jul 2018 01:56:34 -0400</pubDate>
+      <guid>/publication/rdpg_jmlr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

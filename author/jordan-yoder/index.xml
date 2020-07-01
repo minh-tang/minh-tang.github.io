@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jordan Yoder | Academic</title>
+    <link>/author/jordan-yoder/</link>
+      <atom:link href="/author/jordan-yoder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jordan Yoder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jul 2013 12:08:31 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jordan Yoder</title>
+      <link>/author/jordan-yoder/</link>
+    </image>
+    
+    <item>
+      <title> On latent position inference from doubly stochastic messaging activities</title>
+      <link>/publication/multiscale/</link>
+      <pubDate>Wed, 31 Jul 2013 12:08:31 -0400</pubDate>
+      <guid>/publication/multiscale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

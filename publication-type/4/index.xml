@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Academic</title>
+    <link>/publication-type/4/</link>
+      <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Jul 2018 01:49:28 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>4</title>
+      <link>/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>A statistical interpretation of spectral embedding: the generalised random dot product graph</title>
+      <link>/publication/grdpg/</link>
+      <pubDate>Sun, 29 Jul 2018 01:49:28 -0400</pubDate>
+      <guid>/publication/grdpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The eigenvalues of stochastic blockmodel graphs</title>
+      <link>/publication/eigenval_sbm/</link>
+      <pubDate>Fri, 30 Mar 2018 01:28:25 -0400</pubDate>
+      <guid>/publication/eigenval_sbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymptotically efficient estimators for stochastic blockmodels: the naive MLE, the rank-constrained MLE, and the spectral</title>
+      <link>/publication/ase_efficiency/</link>
+      <pubDate>Mon, 30 Oct 2017 01:18:28 -0400</pubDate>
+      <guid>/publication/ase_efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A central limit theorem for an omnibus embedding of random dot product graphs</title>
+      <link>/publication/omni/</link>
+      <pubDate>Sat, 30 Sep 2017 11:00:21 -0400</pubDate>
+      <guid>/publication/omni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust estimation from multiple graphs under gross error contamination</title>
+      <link>/publication/robust_llg/</link>
+      <pubDate>Mon, 31 Jul 2017 11:21:45 -0400</pubDate>
+      <guid>/publication/robust_llg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

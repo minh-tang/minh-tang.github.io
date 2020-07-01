@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel L. Sussman | Academic</title>
+    <link>/author/daniel-l.-sussman/</link>
+      <atom:link href="/author/daniel-l.-sussman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel L. Sussman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 01:56:34 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Daniel L. Sussman</title>
+      <link>/author/daniel-l.-sussman/</link>
+    </image>
+    
+    <item>
+      <title>Statistical inference on random dot product graphs: a survey</title>
+      <link>/publication/rdpg_jmlr/</link>
+      <pubDate>Sun, 01 Jul 2018 01:56:34 -0400</pubDate>
+      <guid>/publication/rdpg_jmlr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A nonparametric two-sample hypothesis testing problem for random dot product graphs</title>
+      <link>/publication/nonpar/</link>
+      <pubDate>Tue, 01 Aug 2017 01:13:39 -0400</pubDate>
+      <guid>/publication/nonpar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semiparametric two-sample hypothesis testing problem for random dot product graphs</title>
+      <link>/publication/semipar/</link>
+      <pubDate>Sun, 09 Apr 2017 01:04:54 -0400</pubDate>
+      <guid>/publication/semipar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical Bayes estimation for the stochastic blockmodels</title>
+      <link>/publication/sbm_ejs/</link>
+      <pubDate>Wed, 01 Jun 2016 09:53:00 -0400</pubDate>
+      <guid>/publication/sbm_ejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A limit theorem for scaled eigenvectors of random dot product graphs</title>
+      <link>/publication/ase_clt/</link>
+      <pubDate>Sun, 31 Jan 2016 11:29:04 -0400</pubDate>
+      <guid>/publication/ase_clt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical inference on errorfully observed graphs</title>
+      <link>/publication/errorful_jcgs/</link>
+      <pubDate>Thu, 31 Dec 2015 11:33:11 -0400</pubDate>
+      <guid>/publication/errorful_jcgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perfect clustering for stochastic blockmodel graphs via adjacency spectral embedding</title>
+      <link>/publication/perfect_ejs/</link>
+      <pubDate>Mon, 01 Sep 2014 11:46:53 -0400</pubDate>
+      <guid>/publication/perfect_ejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent latent position estimation and vertex classification for random dot product graphs</title>
+      <link>/publication/tsp_tpami/</link>
+      <pubDate>Fri, 31 Jan 2014 12:02:28 -0400</pubDate>
+      <guid>/publication/tsp_tpami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universally consistent vertex classification for latent position graphs</title>
+      <link>/publication/tsp_aos/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      <guid>/publication/tsp_aos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent adjacency-spectral partitioning for the stochastic block model when the model parameters are unknown</title>
+      <link>/publication/fstvp/</link>
+      <pubDate>Tue, 15 Jan 2013 12:18:46 -0400</pubDate>
+      <guid>/publication/fstvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A consistent adjacency spectral embedding for stochastic blockmodel graphs</title>
+      <link>/publication/stfp/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 -0400</pubDate>
+      <guid>/publication/stfp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

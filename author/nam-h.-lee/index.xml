@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nam H. Lee | Academic</title>
+    <link>/author/nam-h.-lee/</link>
+      <atom:link href="/author/nam-h.-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nam H. Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jul 2013 12:08:31 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Nam H. Lee</title>
+      <link>/author/nam-h.-lee/</link>
+    </image>
+    
+    <item>
+      <title> On latent position inference from doubly stochastic messaging activities</title>
+      <link>/publication/multiscale/</link>
+      <pubDate>Wed, 31 Jul 2013 12:08:31 -0400</pubDate>
+      <guid>/publication/multiscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribute fusion in a latent process model for time series of graphs</title>
+      <link>/publication/tlpp_tsp/</link>
+      <pubDate>Mon, 01 Apr 2013 12:15:01 -0400</pubDate>
+      <guid>/publication/tlpp_tsp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

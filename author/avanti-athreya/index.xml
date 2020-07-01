@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avanti Athreya | Academic</title>
+    <link>/author/avanti-athreya/</link>
+      <atom:link href="/author/avanti-athreya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Avanti Athreya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 01:53:46 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Avanti Athreya</title>
+      <link>/author/avanti-athreya/</link>
+    </image>
+    
+    <item>
+      <title>On estimation and inference in latent structure random graphs</title>
+      <link>/publication/latent_structure_model/</link>
+      <pubDate>Wed, 01 Jul 2020 01:53:46 -0400</pubDate>
+      <guid>/publication/latent_structure_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On a &#39;two truths&#39; phenomenon in spectral graph clustering</title>
+      <link>/publication/twotruths/</link>
+      <pubDate>Fri, 08 Mar 2019 07:44:37 -0400</pubDate>
+      <guid>/publication/twotruths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical inference on random dot product graphs: a survey</title>
+      <link>/publication/rdpg_jmlr/</link>
+      <pubDate>Sun, 01 Jul 2018 01:56:34 -0400</pubDate>
+      <guid>/publication/rdpg_jmlr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A central limit theorem for an omnibus embedding of random dot product graphs</title>
+      <link>/publication/omni/</link>
+      <pubDate>Sat, 30 Sep 2017 11:00:21 -0400</pubDate>
+      <guid>/publication/omni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A nonparametric two-sample hypothesis testing problem for random dot product graphs</title>
+      <link>/publication/nonpar/</link>
+      <pubDate>Tue, 01 Aug 2017 01:13:39 -0400</pubDate>
+      <guid>/publication/nonpar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semiparametric two-sample hypothesis testing problem for random dot product graphs</title>
+      <link>/publication/semipar/</link>
+      <pubDate>Sun, 09 Apr 2017 01:04:54 -0400</pubDate>
+      <guid>/publication/semipar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community detection and classification in hierarchical stochastic blockmodels</title>
+      <link>/publication/hsbm_tnse/</link>
+      <pubDate>Fri, 31 Mar 2017 02:06:19 -0400</pubDate>
+      <guid>/publication/hsbm_tnse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A limit theorem for scaled eigenvectors of random dot product graphs</title>
+      <link>/publication/ase_clt/</link>
+      <pubDate>Sun, 31 Jan 2016 11:29:04 -0400</pubDate>
+      <guid>/publication/ase_clt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perfect clustering for stochastic blockmodel graphs via adjacency spectral embedding</title>
+      <link>/publication/perfect_ejs/</link>
+      <pubDate>Mon, 01 Sep 2014 11:46:53 -0400</pubDate>
+      <guid>/publication/perfect_ejs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

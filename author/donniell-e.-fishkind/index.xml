@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donniell E. Fishkind | Academic</title>
+    <link>/author/donniell-e.-fishkind/</link>
+      <atom:link href="/author/donniell-e.-fishkind/index.xml" rel="self" type="application/rss+xml" />
+    <description>Donniell E. Fishkind</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 01:56:34 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Donniell E. Fishkind</title>
+      <link>/author/donniell-e.-fishkind/</link>
+    </image>
+    
+    <item>
+      <title>Statistical inference on random dot product graphs: a survey</title>
+      <link>/publication/rdpg_jmlr/</link>
+      <pubDate>Sun, 01 Jul 2018 01:56:34 -0400</pubDate>
+      <guid>/publication/rdpg_jmlr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent adjacency-spectral partitioning for the stochastic block model when the model parameters are unknown</title>
+      <link>/publication/fstvp/</link>
+      <pubDate>Tue, 15 Jan 2013 12:18:46 -0400</pubDate>
+      <guid>/publication/fstvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A consistent adjacency spectral embedding for stochastic blockmodel graphs</title>
+      <link>/publication/stfp/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 -0400</pubDate>
+      <guid>/publication/stfp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youngser Park | Academic</title>
+    <link>/author/youngser-park/</link>
+      <atom:link href="/author/youngser-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Youngser Park</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 01:53:46 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Youngser Park</title>
+      <link>/author/youngser-park/</link>
+    </image>
+    
+    <item>
+      <title>On estimation and inference in latent structure random graphs</title>
+      <link>/publication/latent_structure_model/</link>
+      <pubDate>Wed, 01 Jul 2020 01:53:46 -0400</pubDate>
+      <guid>/publication/latent_structure_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On a &#39;two truths&#39; phenomenon in spectral graph clustering</title>
+      <link>/publication/twotruths/</link>
+      <pubDate>Fri, 08 Mar 2019 07:44:37 -0400</pubDate>
+      <guid>/publication/twotruths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical inference on random dot product graphs: a survey</title>
+      <link>/publication/rdpg_jmlr/</link>
+      <pubDate>Sun, 01 Jul 2018 01:56:34 -0400</pubDate>
+      <guid>/publication/rdpg_jmlr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semiparametric two-sample hypothesis testing problem for random dot product graphs</title>
+      <link>/publication/semipar/</link>
+      <pubDate>Sun, 09 Apr 2017 01:04:54 -0400</pubDate>
+      <guid>/publication/semipar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community detection and classification in hierarchical stochastic blockmodels</title>
+      <link>/publication/hsbm_tnse/</link>
+      <pubDate>Fri, 31 Mar 2017 02:06:19 -0400</pubDate>
+      <guid>/publication/hsbm_tnse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality statistics for anomaly detection in time series of graphs</title>
+      <link>/publication/locality_tsp/</link>
+      <pubDate>Sat, 01 Feb 2014 11:58:26 -0400</pubDate>
+      <guid>/publication/locality_tsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribute fusion in a latent process model for time series of graphs</title>
+      <link>/publication/tlpp_tsp/</link>
+      <pubDate>Mon, 01 Apr 2013 12:15:01 -0400</pubDate>
+      <guid>/publication/tlpp_tsp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

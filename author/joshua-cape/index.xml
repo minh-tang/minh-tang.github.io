@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joshua Cape | Academic</title>
+    <link>/author/joshua-cape/</link>
+      <atom:link href="/author/joshua-cape/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joshua Cape</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 07:44:37 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Joshua Cape</title>
+      <link>/author/joshua-cape/</link>
+    </image>
+    
+    <item>
+      <title>On spectral embedding performance and elucidating network structure</title>
+      <link>/publication/elucidation/</link>
+      <pubDate>Sun, 01 Sep 2019 07:44:37 -0400</pubDate>
+      <guid>/publication/elucidation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal-plus-noise matrix models: eigenvector deviations and fluctuations</title>
+      <link>/publication/2toinfty_biometrika/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2toinfty_biometrika/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The two-to-infinity norm and singular subspace geometry with applications to high-dimensional statistics</title>
+      <link>/publication/2_to_infty/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2_to_infty/</guid>
+      <description>&lt;p&gt;Paper accepted July 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On a &#39;two truths&#39; phenomenon in spectral graph clustering</title>
+      <link>/publication/twotruths/</link>
+      <pubDate>Fri, 08 Mar 2019 07:44:37 -0400</pubDate>
+      <guid>/publication/twotruths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A statistical interpretation of spectral embedding: the generalised random dot product graph</title>
+      <link>/publication/grdpg/</link>
+      <pubDate>Sun, 29 Jul 2018 01:49:28 -0400</pubDate>
+      <guid>/publication/grdpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymptotically efficient estimators for stochastic blockmodels: the naive MLE, the rank-constrained MLE, and the spectral</title>
+      <link>/publication/ase_efficiency/</link>
+      <pubDate>Mon, 30 Oct 2017 01:18:28 -0400</pubDate>
+      <guid>/publication/ase_efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Kato-Temple inequality and eigenvalue concentration with applications to graph inference</title>
+      <link>/publication/kato_temple/</link>
+      <pubDate>Thu, 31 Aug 2017 02:02:53 -0400</pubDate>
+      <guid>/publication/kato_temple/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
