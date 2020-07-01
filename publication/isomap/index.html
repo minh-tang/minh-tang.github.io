@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="Statistical inference on graphs is a burgeoning field in the applied and theoretical statistics communities, as well as throughout the wider world of science, engineering, business, etc. In many applications, we are faced with the reality of errorfully observed graphs. That is, the existence of an edge between two vertices is based on some imperfect assessment. In this paper, we consider a graph $G=(V,E)$. We wish to perform an inference task---the inference task considered here is &#34;vertex classification&#34;. However, we do not observe $G$; rather, for each potential edge $uv \in \tbinom{V}{2}$ we observe an &#34;edge-feature&#34; which we use to classify $uv$ as edge/not-edge. Thus we errorfully observe $G$ when we observe the graph $\tilde{G}=(V,\tilde{E})$ as the edges in $\tilde{E}$ arise from the classifications of the &#34;edge-features&#34;, and are expected to be errorful. Moreover, we face a quantity/quality trade-off regarding the edge-features we observe --- more informative edge-features are more expensive, and hence the number of potential edges that can be assessed decreases with the quality of the edge-features. We studied this problem by formulating a quantity/quality tradeoff for a simple class of random graphs model, namely the stochastic blockmodel. We then consider a simple but optimal vertex classifier for classifying $v$ and we derive the optimal quantity/quality operating point for subsequent graph inference in the face of this trade-off. The optimal operating points for the quantity/quality trade-off are surprising and illustrate the issue that methods for intermediate tasks should be chosen to maximize performance for the ultimate inference task. Finally, we investigate the quantity/quality tradeoff for errorful obesrvations of the *C.elegans* connectome graph.">
+  <meta name="description" content="A generalisation of a latent position network model known as the random dot product graph model is considered. The resulting model may be of independent interest because it has the unique property of representing a mixture of connectivity behaviours as the corresponding convex combination in latent space. We show that, whether the normalised Laplacian or adjacency matrix is used, the vector representations of nodes obtained by spectral embedding provide strongly consistent latent position estimates with asymptotically Gaussian error. Direct methodological consequences follow from the observation that the well-known mixed membership and standard stochastic block models are special cases where the latent positions live respectively inside or on the vertices of a simplex. Estimation via spectral embedding can therefore be achieved by respectively estimating this simplicial support, or fitting a Gaussian mixture model. In the latter case, the use of $K$-means, as has been previously recommended, is suboptimal and for identifiability reasons unsound. Empirical improvements in link prediction, as well as the potential to uncover much richer latent structure (than available under the mixed membership or standard stochastic block models) are demonstrated in a cyber-security example.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/errorful_jcgs/">
+  <link rel="alternate" hreflang="en-us" href="/publication/isomap/">
 
   
 
@@ -217,7 +217,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/publication/errorful_jcgs/">
+  <link rel="canonical" href="/publication/isomap/">
 
   
   
@@ -233,15 +233,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Academic">
-  <meta property="og:url" content="/publication/errorful_jcgs/">
-  <meta property="og:title" content="Statistical inference on errorfully observed graphs | Academic">
-  <meta property="og:description" content="Statistical inference on graphs is a burgeoning field in the applied and theoretical statistics communities, as well as throughout the wider world of science, engineering, business, etc. In many applications, we are faced with the reality of errorfully observed graphs. That is, the existence of an edge between two vertices is based on some imperfect assessment. In this paper, we consider a graph $G=(V,E)$. We wish to perform an inference task---the inference task considered here is &#34;vertex classification&#34;. However, we do not observe $G$; rather, for each potential edge $uv \in \tbinom{V}{2}$ we observe an &#34;edge-feature&#34; which we use to classify $uv$ as edge/not-edge. Thus we errorfully observe $G$ when we observe the graph $\tilde{G}=(V,\tilde{E})$ as the edges in $\tilde{E}$ arise from the classifications of the &#34;edge-features&#34;, and are expected to be errorful. Moreover, we face a quantity/quality trade-off regarding the edge-features we observe --- more informative edge-features are more expensive, and hence the number of potential edges that can be assessed decreases with the quality of the edge-features. We studied this problem by formulating a quantity/quality tradeoff for a simple class of random graphs model, namely the stochastic blockmodel. We then consider a simple but optimal vertex classifier for classifying $v$ and we derive the optimal quantity/quality operating point for subsequent graph inference in the face of this trade-off. The optimal operating points for the quantity/quality trade-off are surprising and illustrate the issue that methods for intermediate tasks should be chosen to maximize performance for the ultimate inference task. Finally, we investigate the quantity/quality tradeoff for errorful obesrvations of the *C.elegans* connectome graph."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="/publication/isomap/">
+  <meta property="og:title" content="Learning 1-dimensional submanifolds for subsequent inference on random dot product graphs | Academic">
+  <meta property="og:description" content="A generalisation of a latent position network model known as the random dot product graph model is considered. The resulting model may be of independent interest because it has the unique property of representing a mixture of connectivity behaviours as the corresponding convex combination in latent space. We show that, whether the normalised Laplacian or adjacency matrix is used, the vector representations of nodes obtained by spectral embedding provide strongly consistent latent position estimates with asymptotically Gaussian error. Direct methodological consequences follow from the observation that the well-known mixed membership and standard stochastic block models are special cases where the latent positions live respectively inside or on the vertices of a simplex. Estimation via spectral embedding can therefore be achieved by respectively estimating this simplicial support, or fitting a Gaussian mixture model. In the latter case, the use of $K$-means, as has been previously recommended, is suboptimal and for identifiability reasons unsound. Empirical improvements in link prediction, as well as the potential to uncover much richer latent structure (than available under the mixed membership or standard stochastic block models) are demonstrated in a cyber-security example."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2015-12-31T11:33:11-04:00">
+      <meta property="article:published_time" content="2020-04-15T01:49:28-04:00">
     
-    <meta property="article:modified_time" content="2015-12-31T11:33:11-04:00">
+    <meta property="article:modified_time" content="2020-04-15T01:49:28-04:00">
   
 
   
@@ -263,16 +263,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/errorful_jcgs/"
+    "@id": "/publication/isomap/"
   },
-  "headline": "Statistical inference on errorfully observed graphs",
+  "headline": "Learning 1-dimensional submanifolds for subsequent inference on random dot product graphs",
   
-  "datePublished": "2015-12-31T11:33:11-04:00",
-  "dateModified": "2015-12-31T11:33:11-04:00",
+  "datePublished": "2020-04-15T01:49:28-04:00",
+  "dateModified": "2020-04-15T01:49:28-04:00",
   
   "author": {
     "@type": "Person",
-    "name": "Carey E. Priebe"
+    "name": "Michael W. Trosset"
   },
   
   "publisher": {
@@ -283,7 +283,7 @@
       "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Statistical inference on graphs is a burgeoning field in the applied and theoretical statistics communities, as well as throughout the wider world of science, engineering, business, etc. In many applications, we are faced with the reality of errorfully observed graphs. That is, the existence of an edge between two vertices is based on some imperfect assessment. In this paper, we consider a graph $G=(V,E)$. We wish to perform an inference task---the inference task considered here is \"vertex classification\". However, we do not observe $G$; rather, for each potential edge $uv \\in \\tbinom{V}{2}$ we observe an \"edge-feature\" which we use to classify $uv$ as edge/not-edge. Thus we errorfully observe $G$ when we observe the graph $\\tilde{G}=(V,\\tilde{E})$ as the edges in $\\tilde{E}$ arise from the classifications of the \"edge-features\", and are expected to be errorful. Moreover, we face a quantity/quality trade-off regarding the edge-features we observe --- more informative edge-features are more expensive, and hence the number of potential edges that can be assessed decreases with the quality of the edge-features. We studied this problem by formulating a quantity/quality tradeoff for a simple class of random graphs model, namely the stochastic blockmodel. We then consider a simple but optimal vertex classifier for classifying $v$ and we derive the optimal quantity/quality operating point for subsequent graph inference in the face of this trade-off. The optimal operating points for the quantity/quality trade-off are surprising and illustrate the issue that methods for intermediate tasks should be chosen to maximize performance for the ultimate inference task. Finally, we investigate the quantity/quality tradeoff for errorful obesrvations of the *C.elegans* connectome graph."
+  "description": "A generalisation of a latent position network model known as the random dot product graph model is considered. The resulting model may be of independent interest because it has the unique property of representing a mixture of connectivity behaviours as the corresponding convex combination in latent space. We show that, whether the normalised Laplacian or adjacency matrix is used, the vector representations of nodes obtained by spectral embedding provide strongly consistent latent position estimates with asymptotically Gaussian error. Direct methodological consequences follow from the observation that the well-known mixed membership and standard stochastic block models are special cases where the latent positions live respectively inside or on the vertices of a simplex. Estimation via spectral embedding can therefore be achieved by respectively estimating this simplicial support, or fitting a Gaussian mixture model. In the latter case, the use of $K$-means, as has been previously recommended, is suboptimal and for identifiability reasons unsound. Empirical improvements in link prediction, as well as the potential to uncover much richer latent structure (than available under the mixed membership or standard stochastic block models) are demonstrated in a cyber-security example."
 }
 </script>
 
@@ -301,7 +301,7 @@
 
 
 
-  <title>Statistical inference on errorfully observed graphs | Academic</title>
+  <title>Learning 1-dimensional submanifolds for subsequent inference on random dot product graphs | Academic</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -584,7 +584,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Statistical inference on errorfully observed graphs</h1>
+  <h1>Learning 1-dimensional submanifolds for subsequent inference on random dot product graphs</h1>
 
   
 
@@ -602,7 +602,7 @@
     
 
   
-  <span >Carey E. Priebe</span>, <span >Daniel L. Sussman</span>, <span >Minh Tang</span>, <span >Joshua T. Vogelstein</span>
+  <span >michael w. trosset</span>, <span >mingyue gao</span>, <span >minh tang</span>, <span >carey e. priebe</span>
   </div>
   
   
@@ -613,7 +613,7 @@
     
       
     
-    December 2015
+    April 2020
   </span>
   
 
@@ -656,7 +656,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/1211.3601" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2004.07348" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -664,14 +664,8 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1080/10618600.2014.951049" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -701,7 +695,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Statistical inference on graphs is a burgeoning field in the applied and theoretical statistics communities, as well as throughout the wider world of science, engineering, business, etc. In many applications, we are faced with the reality of errorfully observed graphs. That is, the existence of an edge between two vertices is based on some imperfect assessment. In this paper, we consider a graph $G=(V,E)$. We wish to perform an inference task&mdash;the inference task considered here is &ldquo;vertex classification&rdquo;. However, we do not observe $G$; rather, for each potential edge $uv \in \tbinom{V}{2}$ we observe an &ldquo;edge-feature&rdquo; which we use to classify $uv$ as edge/not-edge. Thus we errorfully observe $G$ when we observe the graph $\tilde{G}=(V,\tilde{E})$ as the edges in $\tilde{E}$ arise from the classifications of the &ldquo;edge-features&rdquo;, and are expected to be errorful. Moreover, we face a quantity/quality trade-off regarding the edge-features we observe &mdash; more informative edge-features are more expensive, and hence the number of potential edges that can be assessed decreases with the quality of the edge-features. We studied this problem by formulating a quantity/quality tradeoff for a simple class of random graphs model, namely the stochastic blockmodel. We then consider a simple but optimal vertex classifier for classifying $v$ and we derive the optimal quantity/quality operating point for subsequent graph inference in the face of this trade-off. The optimal operating points for the quantity/quality trade-off are surprising and illustrate the issue that methods for intermediate tasks should be chosen to maximize performance for the ultimate inference task. Finally, we investigate the quantity/quality tradeoff for errorful obesrvations of the <em>C.elegans</em> connectome graph.</p>
+    <p class="pub-abstract">A generalisation of a latent position network model known as the random dot product graph model is considered. The resulting model may be of independent interest because it has the unique property of representing a mixture of connectivity behaviours as the corresponding convex combination in latent space. We show that, whether the normalised Laplacian or adjacency matrix is used, the vector representations of nodes obtained by spectral embedding provide strongly consistent latent position estimates with asymptotically Gaussian error. Direct methodological consequences follow from the observation that the well-known mixed membership and standard stochastic block models are special cases where the latent positions live respectively inside or on the vertices of a simplex. Estimation via spectral embedding can therefore be achieved by respectively estimating this simplicial support, or fitting a Gaussian mixture model. In the latter case, the use of $K$-means, as has been previously recommended, is suboptimal and for identifiability reasons unsound. Empirical improvements in link prediction, as well as the potential to uncover much richer latent structure (than available under the mixed membership or standard stochastic block models) are demonstrated in a cyber-security example.</p>
     
 
     
@@ -713,8 +707,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#2">
-              Journal article
+            <a href="/publication/#4">
+              Report
             </a>
             
           </div>
@@ -731,7 +725,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Journal of Computational Graphical Statistics</div>
+          <div class="col-12 col-md-9">Arxiv preprint</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -821,17 +815,6 @@
 
 
   
-  
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
-      
-      <li><a href="/publication/rdpg_jmlr/">Statistical inference on random dot product graphs: a survey</a></li>
-      
-      <li><a href="/publication/fstvp/">Consistent adjacency-spectral partitioning for the stochastic block model when the model parameters are unknown</a></li>
-      
-    </ul>
-  </div>
   
 
 

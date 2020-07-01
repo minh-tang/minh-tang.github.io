@@ -5,12 +5,28 @@
     <link>/publication-type/4/</link>
       <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Jul 2018 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Apr 2020 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>4</title>
       <link>/publication-type/4/</link>
     </image>
+    
+    <item>
+      <title>Learning 1-dimensional submanifolds for subsequent inference on random dot product graphs</title>
+      <link>/publication/isomap/</link>
+      <pubDate>Wed, 15 Apr 2020 01:49:28 -0400</pubDate>
+      <guid>/publication/isomap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On two distinct sources of non-identifiability in latent position random graph models</title>
+      <link>/publication/non_identifiability/</link>
+      <pubDate>Tue, 31 Mar 2020 01:49:28 -0400</pubDate>
+      <guid>/publication/non_identifiability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A statistical interpretation of spectral embedding: the generalised random dot product graph</title>
