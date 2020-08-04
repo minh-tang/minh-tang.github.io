@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yiran Wang | Academic</title>
+    <link>/author/yiran-wang/</link>
+      <atom:link href="/author/yiran-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yiran Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 07:44:37 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yiran Wang</title>
+      <link>/author/yiran-wang/</link>
+    </image>
+    
+    <item>
+      <title>Two-sample testing on latent distance graphs with unknown link functions</title>
+      <link>/publication/spearman/</link>
+      <pubDate>Mon, 03 Aug 2020 07:44:37 -0400</pubDate>
+      <guid>/publication/spearman/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
