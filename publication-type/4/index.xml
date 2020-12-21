@@ -5,12 +5,20 @@
     <link>/publication-type/4/</link>
       <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 07:44:37 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>4</title>
       <link>/publication-type/4/</link>
     </image>
+    
+    <item>
+      <title>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</title>
+      <link>/publication/nonpar2/</link>
+      <pubDate>Sun, 20 Dec 2020 01:49:28 -0400</pubDate>
+      <guid>/publication/nonpar2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Two-sample testing on latent distance graphs with unknown link functions</title>
@@ -33,6 +41,14 @@
       <link>/publication/non_identifiability/</link>
       <pubDate>Tue, 31 Mar 2020 01:49:28 -0400</pubDate>
       <guid>/publication/non_identifiability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertex nomination between graphs via spectral embedding and quadratic programming</title>
+      <link>/publication/vn_zheng/</link>
+      <pubDate>Tue, 31 Mar 2020 01:49:28 -0400</pubDate>
+      <guid>/publication/vn_zheng/</guid>
       <description></description>
     </item>
     

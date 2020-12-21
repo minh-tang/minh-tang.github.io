@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vince Lyznsiki | Academic</title>
+    <link>/author/vince-lyznsiki/</link>
+      <atom:link href="/author/vince-lyznsiki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vince Lyznsiki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Mar 2020 01:49:28 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Vince Lyznsiki</title>
+      <link>/author/vince-lyznsiki/</link>
+    </image>
+    
+    <item>
+      <title>Vertex nomination between graphs via spectral embedding and quadratic programming</title>
+      <link>/publication/vn_zheng/</link>
+      <pubDate>Tue, 31 Mar 2020 01:49:28 -0400</pubDate>
+      <guid>/publication/vn_zheng/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

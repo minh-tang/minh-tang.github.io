@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 07:44:37 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2020 01:53:46 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
@@ -323,18 +323,26 @@ participate actively in class.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Two-sample testing on latent distance graphs with unknown link functions</title>
-      <link>/publication/spearman/</link>
-      <pubDate>Mon, 03 Aug 2020 07:44:37 -0400</pubDate>
-      <guid>/publication/spearman/</guid>
+      <title>On estimation and inference in latent structure random graphs</title>
+      <link>/publication/latent_structure_model/</link>
+      <pubDate>Mon, 21 Dec 2020 01:53:46 -0400</pubDate>
+      <guid>/publication/latent_structure_model/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>On estimation and inference in latent structure random graphs</title>
-      <link>/publication/latent_structure_model/</link>
-      <pubDate>Wed, 01 Jul 2020 01:53:46 -0400</pubDate>
-      <guid>/publication/latent_structure_model/</guid>
+      <title>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</title>
+      <link>/publication/nonpar2/</link>
+      <pubDate>Sun, 20 Dec 2020 01:49:28 -0400</pubDate>
+      <guid>/publication/nonpar2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-sample testing on latent distance graphs with unknown link functions</title>
+      <link>/publication/spearman/</link>
+      <pubDate>Mon, 03 Aug 2020 07:44:37 -0400</pubDate>
+      <guid>/publication/spearman/</guid>
       <description></description>
     </item>
     
@@ -367,6 +375,14 @@ participate actively in class.&lt;/p&gt;
       <link>/publication/non_identifiability/</link>
       <pubDate>Tue, 31 Mar 2020 01:49:28 -0400</pubDate>
       <guid>/publication/non_identifiability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertex nomination between graphs via spectral embedding and quadratic programming</title>
+      <link>/publication/vn_zheng/</link>
+      <pubDate>Tue, 31 Mar 2020 01:49:28 -0400</pubDate>
+      <guid>/publication/vn_zheng/</guid>
       <description></description>
     </item>
     
