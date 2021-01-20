@@ -5,12 +5,20 @@
     <link>/publication-type/4/</link>
       <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jan 2021 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>4</title>
       <link>/publication-type/4/</link>
     </image>
+    
+    <item>
+      <title>Consistency of random-walk based network embedding algorithms</title>
+      <link>/publication/node2vec/</link>
+      <pubDate>Mon, 18 Jan 2021 01:49:28 -0400</pubDate>
+      <guid>/publication/node2vec/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</title>
