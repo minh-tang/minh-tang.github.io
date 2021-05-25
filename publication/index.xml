@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>The eigenvalues of stochastic blockmodel graphs</title>
+      <link>/publication/eigenval_sbm/</link>
+      <pubDate>Mon, 10 May 2021 01:28:25 -0400</pubDate>
+      <guid>/publication/eigenval_sbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Consistency of random-walk based network embedding algorithms</title>
       <link>/publication/node2vec/</link>
       <pubDate>Mon, 18 Jan 2021 01:49:28 -0400</pubDate>
@@ -138,14 +146,6 @@
       <link>/publication/rdpg_jmlr/</link>
       <pubDate>Sun, 01 Jul 2018 01:56:34 -0400</pubDate>
       <guid>/publication/rdpg_jmlr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The eigenvalues of stochastic blockmodel graphs</title>
-      <link>/publication/eigenval_sbm/</link>
-      <pubDate>Fri, 30 Mar 2018 01:28:25 -0400</pubDate>
-      <guid>/publication/eigenval_sbm/</guid>
       <description></description>
     </item>
     

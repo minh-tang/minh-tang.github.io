@@ -5,12 +5,20 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2020 01:53:46 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 May 2021 01:28:25 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>The eigenvalues of stochastic blockmodel graphs</title>
+      <link>/publication/eigenval_sbm/</link>
+      <pubDate>Mon, 10 May 2021 01:28:25 -0400</pubDate>
+      <guid>/publication/eigenval_sbm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On estimation and inference in latent structure random graphs</title>

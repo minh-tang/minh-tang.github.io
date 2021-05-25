@@ -5,12 +5,20 @@
     <link>/author/minh-tang/</link>
       <atom:link href="/author/minh-tang/index.xml" rel="self" type="application/rss+xml" />
     <description>Minh Tang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jan 2021 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 May 2021 01:28:25 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Minh Tang</title>
       <link>/author/minh-tang/</link>
     </image>
+    
+    <item>
+      <title>The eigenvalues of stochastic blockmodel graphs</title>
+      <link>/publication/eigenval_sbm/</link>
+      <pubDate>Mon, 10 May 2021 01:28:25 -0400</pubDate>
+      <guid>/publication/eigenval_sbm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Consistency of random-walk based network embedding algorithms</title>
@@ -138,14 +146,6 @@
       <link>/publication/rdpg_jmlr/</link>
       <pubDate>Sun, 01 Jul 2018 01:56:34 -0400</pubDate>
       <guid>/publication/rdpg_jmlr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The eigenvalues of stochastic blockmodel graphs</title>
-      <link>/publication/eigenval_sbm/</link>
-      <pubDate>Fri, 30 Mar 2018 01:28:25 -0400</pubDate>
-      <guid>/publication/eigenval_sbm/</guid>
       <description></description>
     </item>
     

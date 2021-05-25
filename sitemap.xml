@@ -8,17 +8,47 @@
   </url>
   
   <url>
-    <loc>/publication-type/4/</loc>
-    <lastmod>2021-01-18T01:49:28-04:00</lastmod>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2021-05-10T01:28:25-04:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-01-18T01:49:28-04:00</lastmod>
+    <lastmod>2021-05-10T01:28:25-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2021-05-10T01:28:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/avanti-athreya/</loc>
+    <lastmod>2021-05-10T01:28:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joshua-cape/</loc>
+    <lastmod>2021-05-10T01:28:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/minh-tang/</loc>
+    <lastmod>2021-05-10T01:28:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-05-10T01:28:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/eigenval_sbm/</loc>
+    <lastmod>2021-05-10T01:28:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/4/</loc>
     <lastmod>2021-01-18T01:49:28-04:00</lastmod>
   </url>
   
@@ -28,28 +58,8 @@
   </url>
   
   <url>
-    <loc>/author/minh-tang/</loc>
-    <lastmod>2021-01-18T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-01-18T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/yichi-zhang/</loc>
     <lastmod>2021-01-18T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-12-21T01:53:46-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/avanti-athreya/</loc>
-    <lastmod>2020-12-21T01:53:46-04:00</lastmod>
   </url>
   
   <url>
@@ -168,11 +178,6 @@
   </url>
   
   <url>
-    <loc>/author/joshua-cape/</loc>
-    <lastmod>2019-09-01T07:44:37-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/elucidation/</loc>
     <lastmod>2019-09-01T07:44:37-04:00</lastmod>
   </url>
@@ -245,11 +250,6 @@
   <url>
     <loc>/author/yichen-qin/</loc>
     <lastmod>2018-07-01T01:56:34-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/eigenval_sbm/</loc>
-    <lastmod>2018-03-30T01:28:25-04:00</lastmod>
   </url>
   
   <url>
