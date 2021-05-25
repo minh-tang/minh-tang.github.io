@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 May 2021 01:28:25 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 May 2021 11:24:41 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
@@ -323,6 +323,14 @@ participate actively in class.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Hypothesis testing for equality of latent positions in random graphs</title>
+      <link>/publication/du_tang/</link>
+      <pubDate>Mon, 24 May 2021 11:24:41 -0400</pubDate>
+      <guid>/publication/du_tang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The eigenvalues of stochastic blockmodel graphs</title>
       <link>/publication/eigenval_sbm/</link>
       <pubDate>Mon, 10 May 2021 01:28:25 -0400</pubDate>
@@ -331,18 +339,18 @@ participate actively in class.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Consistency of random-walk based network embedding algorithms</title>
-      <link>/publication/node2vec/</link>
-      <pubDate>Mon, 18 Jan 2021 01:49:28 -0400</pubDate>
-      <guid>/publication/node2vec/</guid>
+      <title>On estimation and inference in latent structure random graphs</title>
+      <link>/publication/latent_structure_model/</link>
+      <pubDate>Sun, 28 Feb 2021 01:53:46 -0400</pubDate>
+      <guid>/publication/latent_structure_model/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>On estimation and inference in latent structure random graphs</title>
-      <link>/publication/latent_structure_model/</link>
-      <pubDate>Mon, 21 Dec 2020 01:53:46 -0400</pubDate>
-      <guid>/publication/latent_structure_model/</guid>
+      <title>Consistency of random-walk based network embedding algorithms</title>
+      <link>/publication/node2vec/</link>
+      <pubDate>Mon, 18 Jan 2021 01:49:28 -0400</pubDate>
+      <guid>/publication/node2vec/</guid>
       <description></description>
     </item>
     
