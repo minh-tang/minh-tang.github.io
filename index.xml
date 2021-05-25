@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 May 2021 11:24:41 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 May 2021 01:18:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
@@ -323,6 +323,14 @@ participate actively in class.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Asymptotically efficient estimators for stochastic blockmodels: the naive MLE, the rank-constrained MLE, and the spectral</title>
+      <link>/publication/ase_efficiency/</link>
+      <pubDate>Tue, 25 May 2021 01:18:28 -0400</pubDate>
+      <guid>/publication/ase_efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hypothesis testing for equality of latent positions in random graphs</title>
       <link>/publication/du_tang/</link>
       <pubDate>Mon, 24 May 2021 11:24:41 -0400</pubDate>
@@ -472,14 +480,6 @@ participate actively in class.&lt;/p&gt;
       <link>/publication/rdpg_jmlr/</link>
       <pubDate>Sun, 01 Jul 2018 01:56:34 -0400</pubDate>
       <guid>/publication/rdpg_jmlr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asymptotically efficient estimators for stochastic blockmodels: the naive MLE, the rank-constrained MLE, and the spectral</title>
-      <link>/publication/ase_efficiency/</link>
-      <pubDate>Mon, 30 Oct 2017 01:18:28 -0400</pubDate>
-      <guid>/publication/ase_efficiency/</guid>
       <description></description>
     </item>
     

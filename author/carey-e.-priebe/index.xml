@@ -5,12 +5,20 @@
     <link>/author/carey-e.-priebe/</link>
       <atom:link href="/author/carey-e.-priebe/index.xml" rel="self" type="application/rss+xml" />
     <description>Carey E. Priebe</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 01:53:46 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 May 2021 01:18:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Carey E. Priebe</title>
       <link>/author/carey-e.-priebe/</link>
     </image>
+    
+    <item>
+      <title>Asymptotically efficient estimators for stochastic blockmodels: the naive MLE, the rank-constrained MLE, and the spectral</title>
+      <link>/publication/ase_efficiency/</link>
+      <pubDate>Tue, 25 May 2021 01:18:28 -0400</pubDate>
+      <guid>/publication/ase_efficiency/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On estimation and inference in latent structure random graphs</title>
@@ -122,14 +130,6 @@
       <link>/publication/rdpg_jmlr/</link>
       <pubDate>Sun, 01 Jul 2018 01:56:34 -0400</pubDate>
       <guid>/publication/rdpg_jmlr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asymptotically efficient estimators for stochastic blockmodels: the naive MLE, the rank-constrained MLE, and the spectral</title>
-      <link>/publication/ase_efficiency/</link>
-      <pubDate>Mon, 30 Oct 2017 01:18:28 -0400</pubDate>
-      <guid>/publication/ase_efficiency/</guid>
       <description></description>
     </item>
     
