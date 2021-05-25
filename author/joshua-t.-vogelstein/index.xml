@@ -5,12 +5,20 @@
     <link>/author/joshua-t.-vogelstein/</link>
       <atom:link href="/author/joshua-t.-vogelstein/index.xml" rel="self" type="application/rss+xml" />
     <description>Joshua T. Vogelstein</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Mar 2019 07:44:37 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 12:18:46 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Joshua T. Vogelstein</title>
       <link>/author/joshua-t.-vogelstein/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/publication/lol/</link>
+      <pubDate>Sat, 01 May 2021 12:18:46 -0400</pubDate>
+      <guid>/publication/lol/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On a &#39;two truths&#39; phenomenon in spectral graph clustering</title>

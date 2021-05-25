@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Da Zheng | Academic</title>
+    <link>/author/da-zheng/</link>
+      <atom:link href="/author/da-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Da Zheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 12:18:46 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Da Zheng</title>
+      <link>/author/da-zheng/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/publication/lol/</link>
+      <pubDate>Sat, 01 May 2021 12:18:46 -0400</pubDate>
+      <guid>/publication/lol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
