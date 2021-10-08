@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>Classification of high-dimensional data with spiked covariance matrix structure</title>
+      <link>/publication/pcalda/</link>
+      <pubDate>Thu, 07 Oct 2021 01:28:25 -0400</pubDate>
+      <guid>/publication/pcalda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valid two-sample graph testing via optimal transport Procrustes and multiscale graph correlation with applications in connectomics</title>
+      <link>/publication/twosample_stat/</link>
+      <pubDate>Thu, 07 Oct 2021 01:28:25 -0400</pubDate>
+      <guid>/publication/twosample_stat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popularity adjusted block models are generalized random dot product graphs</title>
+      <link>/publication/pabm/</link>
+      <pubDate>Tue, 07 Sep 2021 01:28:25 -0400</pubDate>
+      <guid>/publication/pabm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Asymptotically efficient estimators for stochastic blockmodels: the naive MLE, the rank-constrained MLE, and the spectral</title>
       <link>/publication/ase_efficiency/</link>
       <pubDate>Tue, 25 May 2021 01:18:28 -0400</pubDate>

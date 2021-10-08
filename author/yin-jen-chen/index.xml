@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yin-Jen Chen | Academic</title>
+    <link>/author/yin-jen-chen/</link>
+      <atom:link href="/author/yin-jen-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yin-Jen Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Oct 2021 01:28:25 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yin-Jen Chen</title>
+      <link>/author/yin-jen-chen/</link>
+    </image>
+    
+    <item>
+      <title>Classification of high-dimensional data with spiked covariance matrix structure</title>
+      <link>/publication/pcalda/</link>
+      <pubDate>Thu, 07 Oct 2021 01:28:25 -0400</pubDate>
+      <guid>/publication/pcalda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

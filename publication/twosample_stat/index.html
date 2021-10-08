@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="Assistant Professor">
+  <meta name="description" content="Testing whether two graphs come from the same distribution is of interest in many real world scenarios, including brain network analysis. Under the random dot product graph model, the nonparametric hypothesis testing frame-work consists of embedding the graphs using the adjacency spectral embedding (ASE), followed by aligning the embeddings using the median flip heuristic, and finally applying the nonparametric maximum mean discrepancy(MMD) test to obtain a p-value. Using synthetic data generated from Drosophila brain networks, we show that the median flip heuristic results in an invalid test, and demonstrate that optimal transport Procrustes (OTP) for alignment resolves the invalidity. We further demonstrate that substituting the MMD test with multiscale graph correlation(MGC) test leads to a more powerful test both in synthetic and in simulated data. Lastly, we apply this powerful test to the right and left hemispheres of the larval Drosophila mushroom body brain networks, and conclude that there is not sufficient evidence to reject the null hypothesis that the two hemispheres are equally distributed.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/404.html">
+  <link rel="alternate" hreflang="en-us" href="/publication/twosample_stat/">
 
   
 
@@ -217,7 +217,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/404.html">
+  <link rel="canonical" href="/publication/twosample_stat/">
 
   
   
@@ -233,18 +233,61 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Academic">
-  <meta property="og:url" content="/404.html">
-  <meta property="og:title" content="404 Page not found | Academic">
-  <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="/publication/twosample_stat/">
+  <meta property="og:title" content="Valid two-sample graph testing via optimal transport Procrustes and multiscale graph correlation with applications in connectomics | Academic">
+  <meta property="og:description" content="Testing whether two graphs come from the same distribution is of interest in many real world scenarios, including brain network analysis. Under the random dot product graph model, the nonparametric hypothesis testing frame-work consists of embedding the graphs using the adjacency spectral embedding (ASE), followed by aligning the embeddings using the median flip heuristic, and finally applying the nonparametric maximum mean discrepancy(MMD) test to obtain a p-value. Using synthetic data generated from Drosophila brain networks, we show that the median flip heuristic results in an invalid test, and demonstrate that optimal transport Procrustes (OTP) for alignment resolves the invalidity. We further demonstrate that substituting the MMD test with multiscale graph correlation(MGC) test leads to a more powerful test both in synthetic and in simulated data. Lastly, we apply this powerful test to the right and left hemispheres of the larval Drosophila mushroom body brain networks, and conclude that there is not sufficient evidence to reject the null hypothesis that the two hemispheres are equally distributed."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
+      <meta property="article:published_time" content="2021-10-07T01:28:25-04:00">
+    
+    <meta property="article:modified_time" content="2021-10-07T01:28:25-04:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/twosample_stat/"
+  },
+  "headline": "Valid two-sample graph testing via optimal transport Procrustes and multiscale graph correlation with applications in connectomics",
+  
+  "datePublished": "2021-10-07T01:28:25-04:00",
+  "dateModified": "2021-10-07T01:28:25-04:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Jaewon Chung"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Academic",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Testing whether two graphs come from the same distribution is of interest in many real world scenarios, including brain network analysis. Under the random dot product graph model, the nonparametric hypothesis testing frame-work consists of embedding the graphs using the adjacency spectral embedding (ASE), followed by aligning the embeddings using the median flip heuristic, and finally applying the nonparametric maximum mean discrepancy(MMD) test to obtain a p-value. Using synthetic data generated from Drosophila brain networks, we show that the median flip heuristic results in an invalid test, and demonstrate that optimal transport Procrustes (OTP) for alignment resolves the invalidity. We further demonstrate that substituting the MMD test with multiscale graph correlation(MGC) test leads to a more powerful test both in synthetic and in simulated data. Lastly, we apply this powerful test to the right and left hemispheres of the larval Drosophila mushroom body brain networks, and conclude that there is not sufficient evidence to reject the null hypothesis that the two hemispheres are equally distributed."
+}
+</script>
+
+  
 
   
 
@@ -252,10 +295,13 @@
   
 
 
+  
 
 
 
-  <title>404 Page not found | Academic</title>
+
+
+  <title>Valid two-sample graph testing via optimal transport Procrustes and multiscale graph correlation with applications in connectomics | Academic</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -517,50 +563,301 @@
 </nav>
 
 
-  <div class="universal-wrapper pt-3">
-
-  <h1>Page not found</h1>
-
-  
-  
-  <form class="d-flex align-items-center mb-3">
-    <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
-  </form>
-  
+  <div class="pub">
 
   
 
-  <p>Perhaps you were looking for one of these?</p>
+
+
+
+
+
+
+
+
+
+
+
+  
 
   
   
   
-  <h2>Latest</h2>
-  <ul>
-    
-      <li><a href="/teaching/stat_graph/">Statistical inference on graphs</a></li>
-    
-      <li><a href="/publication/pcalda/">Classification of high-dimensional data with spiked covariance matrix structure</a></li>
-    
-      <li><a href="/publication/twosample_stat/">Valid two-sample graph testing via optimal transport Procrustes and multiscale graph correlation with applications in connectomics</a></li>
-    
-      <li><a href="/publication/pabm/">Popularity adjusted block models are generalized random dot product graphs</a></li>
-    
-      <li><a href="/publication/ase_efficiency/">Asymptotically efficient estimators for stochastic blockmodels: the naive MLE, the rank-constrained MLE, and the spectral</a></li>
-    
-      <li><a href="/publication/du_tang/">Hypothesis testing for equality of latent positions in random graphs</a></li>
-    
-      <li><a href="/publication/eigenval_sbm/">The eigenvalues of stochastic blockmodel graphs</a></li>
-    
-      <li><a href="/publication/lol/">Supervised dimensionality reduction for big data</a></li>
-    
-      <li><a href="/publication/latent_structure_model/">On estimation and inference in latent structure random graphs</a></li>
-    
-      <li><a href="/publication/node2vec/">Consistency of random-walk based network embedding algorithms</a></li>
-    
-  </ul>
+<div class="article-container pt-3">
+  <h1>Valid two-sample graph testing via optimal transport Procrustes and multiscale graph correlation with applications in connectomics</h1>
+
   
 
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span >Jaewon Chung</span>, <span >Bijan Varjavand</span>, <span >Jesus Arroyo</span>, <span >Anton Alyakin</span>, <span >Joshua Agterberg</span>, <span >Minh Tang</span>, <span >Joshua T. Vogelstein</span>, <span >Carey E. Priebe</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/1911.02741" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Testing whether two graphs come from the same distribution is of interest in many real world scenarios, including brain network analysis. Under the random dot product graph model, the nonparametric hypothesis testing frame-work consists of embedding the graphs using the adjacency spectral embedding (ASE), followed by aligning the embeddings using the median flip heuristic, and finally applying the nonparametric maximum mean discrepancy(MMD) test to obtain a p-value. Using synthetic data generated from Drosophila brain networks, we show that the median flip heuristic results in an invalid test, and demonstrate that optimal transport Procrustes (OTP) for alignment resolves the invalidity. We further demonstrate that substituting the MMD test with multiscale graph correlation(MGC) test leads to a more powerful test both in synthetic and in simulated data. Lastly, we apply this powerful test to the right and left hemispheres of the larval Drosophila mushroom body brain networks, and conclude that there is not sufficient evidence to reject the null hypothesis that the two hemispheres are equally distributed.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Stat (accepted for publication)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
 
       
