@@ -5,12 +5,20 @@
     <link>/author/youngser-park/</link>
       <atom:link href="/author/youngser-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Youngser Park</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 01:53:46 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Feb 2022 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Youngser Park</title>
       <link>/author/youngser-park/</link>
     </image>
+    
+    <item>
+      <title>Numerical tolerance for spectral decompositions of random matrices</title>
+      <link>/publication/numtol/</link>
+      <pubDate>Fri, 25 Feb 2022 01:49:28 -0400</pubDate>
+      <guid>/publication/numtol/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On estimation and inference in latent structure random graphs</title>

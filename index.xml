@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Oct 2021 01:28:25 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Feb 2022 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
@@ -323,6 +323,22 @@ participate actively in class.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Numerical tolerance for spectral decompositions of random matrices</title>
+      <link>/publication/numtol/</link>
+      <pubDate>Fri, 25 Feb 2022 01:49:28 -0400</pubDate>
+      <guid>/publication/numtol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertex nomination between graphs via spectral embedding and quadratic programming</title>
+      <link>/publication/vn_zheng/</link>
+      <pubDate>Fri, 25 Feb 2022 01:49:28 -0400</pubDate>
+      <guid>/publication/vn_zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Classification of high-dimensional data with spiked covariance matrix structure</title>
       <link>/publication/pcalda/</link>
       <pubDate>Thu, 07 Oct 2021 01:28:25 -0400</pubDate>
@@ -399,14 +415,6 @@ participate actively in class.&lt;/p&gt;
       <link>/publication/nonpar2/</link>
       <pubDate>Sun, 20 Dec 2020 01:49:28 -0400</pubDate>
       <guid>/publication/nonpar2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vertex nomination between graphs via spectral embedding and quadratic programming</title>
-      <link>/publication/vn_zheng/</link>
-      <pubDate>Wed, 21 Oct 2020 01:49:28 -0400</pubDate>
-      <guid>/publication/vn_zheng/</guid>
       <description></description>
     </item>
     

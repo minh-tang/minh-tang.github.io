@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Runbing Zheng | Academic</title>
-    <link>/author/runbing-zheng/</link>
-      <atom:link href="/author/runbing-zheng/index.xml" rel="self" type="application/rss+xml" />
-    <description>Runbing Zheng</description>
+    <title>Zachary Lubberts | Academic</title>
+    <link>/author/zachary-lubberts/</link>
+      <atom:link href="/author/zachary-lubberts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zachary Lubberts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Feb 2022 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Runbing Zheng</title>
-      <link>/author/runbing-zheng/</link>
+      <title>Zachary Lubberts</title>
+      <link>/author/zachary-lubberts/</link>
     </image>
     
     <item>
-      <title>Vertex nomination between graphs via spectral embedding and quadratic programming</title>
-      <link>/publication/vn_zheng/</link>
+      <title>Numerical tolerance for spectral decompositions of random matrices</title>
+      <link>/publication/numtol/</link>
       <pubDate>Fri, 25 Feb 2022 01:49:28 -0400</pubDate>
-      <guid>/publication/vn_zheng/</guid>
+      <guid>/publication/numtol/</guid>
       <description></description>
     </item>
     

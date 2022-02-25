@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Numerical tolerance for spectral decompositions of random matrices</title>
+      <link>/publication/numtol/</link>
+      <pubDate>Fri, 25 Feb 2022 01:49:28 -0400</pubDate>
+      <guid>/publication/numtol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertex nomination between graphs via spectral embedding and quadratic programming</title>
+      <link>/publication/vn_zheng/</link>
+      <pubDate>Fri, 25 Feb 2022 01:49:28 -0400</pubDate>
+      <guid>/publication/vn_zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Classification of high-dimensional data with spiked covariance matrix structure</title>
       <link>/publication/pcalda/</link>
       <pubDate>Thu, 07 Oct 2021 01:28:25 -0400</pubDate>
@@ -89,14 +105,6 @@
       <link>/publication/nonpar2/</link>
       <pubDate>Sun, 20 Dec 2020 01:49:28 -0400</pubDate>
       <guid>/publication/nonpar2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vertex nomination between graphs via spectral embedding and quadratic programming</title>
-      <link>/publication/vn_zheng/</link>
-      <pubDate>Wed, 21 Oct 2020 01:49:28 -0400</pubDate>
-      <guid>/publication/vn_zheng/</guid>
       <description></description>
     </item>
     
