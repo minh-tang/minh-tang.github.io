@@ -31,8 +31,16 @@
     <item>
       <title>Valid two-sample graph testing via optimal transport Procrustes and multiscale graph correlation with applications in connectomics</title>
       <link>/publication/twosample_stat/</link>
-      <pubDate>Thu, 07 Oct 2021 01:28:25 -0400</pubDate>
+      <pubDate>Fri, 25 Feb 2022 01:28:25 -0400</pubDate>
       <guid>/publication/twosample_stat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limit theorems for out-of-sample extensions of the adjacency and Laplacian spectral embeddings</title>
+      <link>/publication/lseoos/</link>
+      <pubDate>Sat, 30 Oct 2021 11:00:21 -0400</pubDate>
+      <guid>/publication/lseoos/</guid>
       <description></description>
     </item>
     
@@ -57,14 +65,6 @@
       <link>/publication/nonpar2/</link>
       <pubDate>Sun, 20 Dec 2020 01:49:28 -0400</pubDate>
       <guid>/publication/nonpar2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Limit theorems for out-of-sample extensions of the adjacency and Laplacian spectral embeddings</title>
-      <link>/publication/lseoos/</link>
-      <pubDate>Tue, 30 Jun 2020 11:00:21 -0400</pubDate>
-      <guid>/publication/lseoos/</guid>
       <description></description>
     </item>
     

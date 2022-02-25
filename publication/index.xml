@@ -29,18 +29,26 @@
     </item>
     
     <item>
-      <title>Classification of high-dimensional data with spiked covariance matrix structure</title>
-      <link>/publication/pcalda/</link>
-      <pubDate>Thu, 07 Oct 2021 01:28:25 -0400</pubDate>
-      <guid>/publication/pcalda/</guid>
+      <title>Valid two-sample graph testing via optimal transport Procrustes and multiscale graph correlation with applications in connectomics</title>
+      <link>/publication/twosample_stat/</link>
+      <pubDate>Fri, 25 Feb 2022 01:28:25 -0400</pubDate>
+      <guid>/publication/twosample_stat/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Valid two-sample graph testing via optimal transport Procrustes and multiscale graph correlation with applications in connectomics</title>
-      <link>/publication/twosample_stat/</link>
+      <title>Limit theorems for out-of-sample extensions of the adjacency and Laplacian spectral embeddings</title>
+      <link>/publication/lseoos/</link>
+      <pubDate>Sat, 30 Oct 2021 11:00:21 -0400</pubDate>
+      <guid>/publication/lseoos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of high-dimensional data with spiked covariance matrix structure</title>
+      <link>/publication/pcalda/</link>
       <pubDate>Thu, 07 Oct 2021 01:28:25 -0400</pubDate>
-      <guid>/publication/twosample_stat/</guid>
+      <guid>/publication/pcalda/</guid>
       <description></description>
     </item>
     
@@ -69,7 +77,7 @@
     </item>
     
     <item>
-      <title>The eigenvalues of stochastic blockmodel graphs</title>
+      <title>Eigenvalues of stochastic blockmodel graphs and random graphs with low-rank edge probabilities matrices</title>
       <link>/publication/eigenval_sbm/</link>
       <pubDate>Mon, 10 May 2021 01:28:25 -0400</pubDate>
       <guid>/publication/eigenval_sbm/</guid>
@@ -113,14 +121,6 @@
       <link>/publication/spearman/</link>
       <pubDate>Mon, 03 Aug 2020 07:44:37 -0400</pubDate>
       <guid>/publication/spearman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Limit theorems for out-of-sample extensions of the adjacency and Laplacian spectral embeddings</title>
-      <link>/publication/lseoos/</link>
-      <pubDate>Tue, 30 Jun 2020 11:00:21 -0400</pubDate>
-      <guid>/publication/lseoos/</guid>
       <description></description>
     </item>
     
