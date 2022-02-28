@@ -5,12 +5,20 @@
     <link>/author/joshua-cape/</link>
       <atom:link href="/author/joshua-cape/index.xml" rel="self" type="application/rss+xml" />
     <description>Joshua Cape</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 May 2021 01:18:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Feb 2022 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Joshua Cape</title>
       <link>/author/joshua-cape/</link>
     </image>
+    
+    <item>
+      <title>A statistical interpretation of spectral embedding: the generalised random dot product graph</title>
+      <link>/publication/grdpg/</link>
+      <pubDate>Sat, 26 Feb 2022 01:49:28 -0400</pubDate>
+      <guid>/publication/grdpg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Asymptotically efficient estimators for stochastic blockmodels: the naive MLE, the rank-constrained MLE, and the spectral</title>
@@ -58,14 +66,6 @@
       <link>/publication/twotruths/</link>
       <pubDate>Fri, 08 Mar 2019 07:44:37 -0400</pubDate>
       <guid>/publication/twotruths/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A statistical interpretation of spectral embedding: the generalised random dot product graph</title>
-      <link>/publication/grdpg/</link>
-      <pubDate>Sun, 29 Jul 2018 01:49:28 -0400</pubDate>
-      <guid>/publication/grdpg/</guid>
       <description></description>
     </item>
     

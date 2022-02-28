@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Feb 2022 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Feb 2022 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
@@ -323,6 +323,14 @@ participate actively in class.&lt;/p&gt;
     </item>
     
     <item>
+      <title>A statistical interpretation of spectral embedding: the generalised random dot product graph</title>
+      <link>/publication/grdpg/</link>
+      <pubDate>Sat, 26 Feb 2022 01:49:28 -0400</pubDate>
+      <guid>/publication/grdpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Numerical tolerance for spectral decompositions of random matrices</title>
       <link>/publication/numtol/</link>
       <pubDate>Fri, 25 Feb 2022 01:49:28 -0400</pubDate>
@@ -496,14 +504,6 @@ participate actively in class.&lt;/p&gt;
       <link>/publication/lseclt/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       <guid>/publication/lseclt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A statistical interpretation of spectral embedding: the generalised random dot product graph</title>
-      <link>/publication/grdpg/</link>
-      <pubDate>Sun, 29 Jul 2018 01:49:28 -0400</pubDate>
-      <guid>/publication/grdpg/</guid>
       <description></description>
     </item>
     

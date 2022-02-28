@@ -5,12 +5,20 @@
     <link>/publication-type/4/</link>
       <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Oct 2021 01:28:25 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Feb 2022 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>4</title>
       <link>/publication-type/4/</link>
     </image>
+    
+    <item>
+      <title>A statistical interpretation of spectral embedding: the generalised random dot product graph</title>
+      <link>/publication/grdpg/</link>
+      <pubDate>Sat, 26 Feb 2022 01:49:28 -0400</pubDate>
+      <guid>/publication/grdpg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Classification of high-dimensional data with spiked covariance matrix structure</title>
@@ -73,14 +81,6 @@
       <link>/publication/non_identifiability/</link>
       <pubDate>Tue, 31 Mar 2020 01:49:28 -0400</pubDate>
       <guid>/publication/non_identifiability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A statistical interpretation of spectral embedding: the generalised random dot product graph</title>
-      <link>/publication/grdpg/</link>
-      <pubDate>Sun, 29 Jul 2018 01:49:28 -0400</pubDate>
-      <guid>/publication/grdpg/</guid>
       <description></description>
     </item>
     
