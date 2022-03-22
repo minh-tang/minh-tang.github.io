@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Feb 2022 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Mar 2022 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
@@ -320,6 +320,14 @@ participate actively in class.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Perturbation analysis of randomized SVD and its applications to high-dimensional statistics</title>
+      <link>/publication/rsvd/</link>
+      <pubDate>Mon, 21 Mar 2022 01:49:28 -0400</pubDate>
+      <guid>/publication/rsvd/</guid>
+      <description></description>
     </item>
     
     <item>
