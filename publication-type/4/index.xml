@@ -5,12 +5,20 @@
     <link>/publication-type/4/</link>
       <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Mar 2022 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jun 2022 01:49:28 -0400</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>4</title>
       <link>/publication-type/4/</link>
     </image>
+    
+    <item>
+      <title>Limit results for distributed estimation of invariant subspaces in multiple networks inference and PCA</title>
+      <link>/publication/cosie_pca/</link>
+      <pubDate>Thu, 09 Jun 2022 01:49:28 -0400</pubDate>
+      <guid>/publication/cosie_pca/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Perturbation analysis of randomized SVD and its applications to high-dimensional statistics</title>

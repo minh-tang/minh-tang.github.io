@@ -5,9 +5,9 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2022 01:28:25 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jun 2022 01:49:28 -0400</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>/</link>
     </image>
@@ -320,6 +320,14 @@ participate actively in class.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Limit results for distributed estimation of invariant subspaces in multiple networks inference and PCA</title>
+      <link>/publication/cosie_pca/</link>
+      <pubDate>Thu, 09 Jun 2022 01:49:28 -0400</pubDate>
+      <guid>/publication/cosie_pca/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -638,7 +646,7 @@ participate actively in class.&lt;/p&gt;
     <item>
       <title>Universally consistent vertex classification for latent position graphs</title>
       <link>/publication/tsp_aos/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>/publication/tsp_aos/</guid>
       <description></description>
     </item>
@@ -670,7 +678,7 @@ participate actively in class.&lt;/p&gt;
     <item>
       <title>A consistent adjacency spectral embedding for stochastic blockmodel graphs</title>
       <link>/publication/stfp/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
       <guid>/publication/stfp/</guid>
       <description></description>
     </item>

@@ -1,545 +1,330 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/teaching/stat_graph/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/publication-type/4/</loc>
+    <lastmod>2022-06-09T01:49:28-04:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-06-09T01:49:28-04:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2022-06-09T01:49:28-04:00</lastmod>
+  </url><url>
+    <loc>/publication/cosie_pca/</loc>
+    <lastmod>2022-06-09T01:49:28-04:00</lastmod>
+  </url><url>
+    <loc>/author/minh-tang/</loc>
+    <lastmod>2022-06-09T01:49:28-04:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-06-09T01:49:28-04:00</lastmod>
+  </url><url>
+    <loc>/author/runbing-zheng/</loc>
+    <lastmod>2022-06-09T01:49:28-04:00</lastmod>
+  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2022-05-06T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2022-05-06T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2022-05-06T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/john-koo/</loc>
     <lastmod>2022-05-06T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/michael-trosset/</loc>
     <lastmod>2022-05-06T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/minh-tang/</loc>
-    <lastmod>2022-05-06T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/pabm/</loc>
     <lastmod>2022-05-06T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-05-06T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/4/</loc>
-    <lastmod>2022-03-21T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/rsvd/</loc>
     <lastmod>2022-03-21T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yichi-zhang/</loc>
     <lastmod>2022-03-21T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/grdpg/</loc>
     <lastmod>2022-02-26T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/carey-e.-priebe/</loc>
     <lastmod>2022-02-26T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/joshua-cape/</loc>
     <lastmod>2022-02-26T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/patrick-rubin-delanchy/</loc>
     <lastmod>2022-02-26T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/avanti-athreya/</loc>
     <lastmod>2022-02-25T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/brian-lewis/</loc>
     <lastmod>2022-02-25T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/michael-kane/</loc>
     <lastmod>2022-02-25T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/numtol/</loc>
     <lastmod>2022-02-25T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/runbing-zheng/</loc>
-    <lastmod>2022-02-25T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/vn_zheng/</loc>
     <lastmod>2022-02-25T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/vince-lyzinski/</loc>
     <lastmod>2022-02-25T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/vince-lyznsiki/</loc>
     <lastmod>2022-02-25T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/youngser-park/</loc>
     <lastmod>2022-02-25T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/zachary-lubberts/</loc>
     <lastmod>2022-02-25T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/anton-alyakin/</loc>
     <lastmod>2022-02-25T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/bijan-varjavand/</loc>
     <lastmod>2022-02-25T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jaewon-chung/</loc>
     <lastmod>2022-02-25T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jesus-arroyo/</loc>
     <lastmod>2022-02-25T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/joshua-agterberg/</loc>
     <lastmod>2022-02-25T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/joshua-t.-vogelstein/</loc>
     <lastmod>2022-02-25T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/twosample_stat/</loc>
     <lastmod>2022-02-25T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ase_efficiency/</loc>
     <lastmod>2022-02-25T01:18:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/fred-roosta/</loc>
     <lastmod>2021-10-30T11:00:21-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/keith-levin/</loc>
     <lastmod>2021-10-30T11:00:21-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/lseoos/</loc>
     <lastmod>2021-10-30T11:00:21-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/michael-w.-mahoney/</loc>
     <lastmod>2021-10-30T11:00:21-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/pcalda/</loc>
     <lastmod>2021-10-07T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yin-jen-chen/</loc>
     <lastmod>2021-10-07T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/du_tang/</loc>
     <lastmod>2021-05-24T11:24:41-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/xinjie-du/</loc>
     <lastmod>2021-05-24T11:24:41-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/eigenval_sbm/</loc>
     <lastmod>2021-05-10T01:28:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/christopher-douville/</loc>
     <lastmod>2021-05-01T12:18:46-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/da-zheng/</loc>
     <lastmod>2021-05-01T12:18:46-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/eric-w.-bridgeford/</loc>
     <lastmod>2021-05-01T12:18:46-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/mauro-maggioni/</loc>
     <lastmod>2021-05-01T12:18:46-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/randall-burns/</loc>
     <lastmod>2021-05-01T12:18:46-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/lol/</loc>
     <lastmod>2021-05-01T12:18:46-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/latent_structure_model/</loc>
     <lastmod>2021-02-28T01:53:46-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/node2vec/</loc>
     <lastmod>2021-01-18T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/joshua-agteberg/</loc>
     <lastmod>2020-12-20T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/nonpar2/</loc>
     <lastmod>2020-12-20T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/soumendra-n.-lahiri/</loc>
     <lastmod>2020-08-03T07:44:37-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/spearman/</loc>
     <lastmod>2020-08-03T07:44:37-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yiran-wang/</loc>
     <lastmod>2020-08-03T07:44:37-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/teaching/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/cmds_clt/</loc>
     <lastmod>2020-06-29T11:24:41-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/gongkai-li/</loc>
     <lastmod>2020-06-29T11:24:41-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/nicholas-charon/</loc>
     <lastmod>2020-06-29T11:24:41-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/isomap/</loc>
     <lastmod>2020-04-15T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/michael-w.-trosset/</loc>
     <lastmod>2020-04-15T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/mingyue-gao/</loc>
     <lastmod>2020-04-15T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/non_identifiability/</loc>
     <lastmod>2020-03-31T01:49:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/elucidation/</loc>
     <lastmod>2019-09-01T07:44:37-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/2toinfty_biometrika/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/2_to_infty/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/eric-bridgeford/</loc>
     <lastmod>2019-03-08T07:44:37-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/john-m.-conroy/</loc>
     <lastmod>2019-03-08T07:44:37-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/twotruths/</loc>
     <lastmod>2019-03-08T07:44:37-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/lseclt/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/daniel-l.-sussman/</loc>
     <lastmod>2018-07-01T01:56:34-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/donniell-e.-fishkind/</loc>
     <lastmod>2018-07-01T01:56:34-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/rdpg_jmlr/</loc>
     <lastmod>2018-07-01T01:56:34-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yichen-qin/</loc>
     <lastmod>2018-07-01T01:56:34-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/omni/</loc>
     <lastmod>2017-09-30T11:00:21-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/kato_temple/</loc>
     <lastmod>2017-08-31T02:02:53-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/nonpar/</loc>
     <lastmod>2017-08-01T01:13:39-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/robust_llg/</loc>
     <lastmod>2017-07-31T11:21:45-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/runze-tang/</loc>
     <lastmod>2017-07-31T11:21:45-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/semipar/</loc>
     <lastmod>2017-04-09T01:04:54-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/hsbm_tnse/</loc>
     <lastmod>2017-03-31T02:06:19-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
-    <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/dominic-s.-lee/</loc>
     <lastmod>2016-06-01T09:53:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sbm_ejs/</loc>
     <lastmod>2016-06-01T09:53:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/shakira-suwan/</loc>
     <lastmod>2016-06-01T09:53:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ase_clt/</loc>
     <lastmod>2016-01-31T11:29:04-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/david-j.-marchette/</loc>
     <lastmod>2016-01-31T11:29:04-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/errorful_jcgs/</loc>
     <lastmod>2015-12-31T11:33:11-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/cencheng-shen/</loc>
     <lastmod>2014-09-01T11:52:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gcca_jmva/</loc>
     <lastmod>2014-09-01T11:52:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ming-sun/</loc>
     <lastmod>2014-09-01T11:52:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/perfect_ejs/</loc>
     <lastmod>2014-09-01T11:46:53-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/heng-wang/</loc>
     <lastmod>2014-02-01T11:58:26-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/locality_tsp/</loc>
     <lastmod>2014-02-01T11:58:26-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/tsp_tpami/</loc>
     <lastmod>2014-01-31T12:02:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/multiscale/</loc>
     <lastmod>2013-07-31T12:08:31-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jordan-yoder/</loc>
     <lastmod>2013-07-31T12:08:31-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/nam-h.-lee/</loc>
     <lastmod>2013-07-31T12:08:31-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/tsp_aos/</loc>
-    <lastmod>2013-07-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/tlpp_tsp/</loc>
     <lastmod>2013-04-01T12:15:01-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gcca_prl/</loc>
     <lastmod>2013-01-15T12:22:13-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/fstvp/</loc>
     <lastmod>2013-01-15T12:18:46-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/stfp/</loc>
-    <lastmod>2012-10-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2012-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/minh-tang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
   </url>
-  
 </urlset>
