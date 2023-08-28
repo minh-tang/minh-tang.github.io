@@ -331,18 +331,26 @@ participate actively in class.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Limit results for distributed estimation of invariant subspaces in multiple networks inference and PCA</title>
-      <link>/publication/cosie_pca/</link>
-      <pubDate>Thu, 09 Jun 2022 01:49:28 -0400</pubDate>
-      <guid>/publication/cosie_pca/</guid>
+      <title>Numerical tolerance for spectral decompositions of random matrices</title>
+      <link>/publication/numtol/</link>
+      <pubDate>Thu, 25 May 2023 01:49:28 -0400</pubDate>
+      <guid>/publication/numtol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Popularity adjusted block models are generalized random dot product graphs</title>
       <link>/publication/pabm/</link>
-      <pubDate>Fri, 06 May 2022 01:28:25 -0400</pubDate>
+      <pubDate>Sat, 06 May 2023 01:28:25 -0400</pubDate>
       <guid>/publication/pabm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limit results for distributed estimation of invariant subspaces in multiple networks inference and PCA</title>
+      <link>/publication/cosie_pca/</link>
+      <pubDate>Thu, 09 Jun 2022 01:49:28 -0400</pubDate>
+      <guid>/publication/cosie_pca/</guid>
       <description></description>
     </item>
     
@@ -367,14 +375,6 @@ participate actively in class.&lt;/p&gt;
       <link>/publication/vn_peyman/</link>
       <pubDate>Fri, 25 Feb 2022 01:49:28 -0400</pubDate>
       <guid>/publication/vn_peyman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Numerical tolerance for spectral decompositions of random matrices</title>
-      <link>/publication/numtol/</link>
-      <pubDate>Fri, 25 Feb 2022 01:49:28 -0400</pubDate>
-      <guid>/publication/numtol/</guid>
       <description></description>
     </item>
     
