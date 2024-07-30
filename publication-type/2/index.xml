@@ -5,7 +5,7 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Oct 2023 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jan 2024 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Exact Recovery of Community Structures Using DeepWalk and Node2vec</title>
       <link>/publication/node2vec/</link>
-      <pubDate>Fri, 20 Oct 2023 01:49:28 -0400</pubDate>
+      <pubDate>Wed, 31 Jan 2024 01:49:28 -0400</pubDate>
       <guid>/publication/node2vec/</guid>
       <description></description>
     </item>
