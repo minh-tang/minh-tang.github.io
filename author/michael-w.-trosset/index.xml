@@ -5,12 +5,20 @@
     <link>/author/michael-w.-trosset/</link>
       <atom:link href="/author/michael-w.-trosset/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael W. Trosset</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Apr 2020 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 01:49:28 -0400</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu_98e91919b9506612.png</url>
       <title>Michael W. Trosset</title>
       <link>/author/michael-w.-trosset/</link>
     </image>
+    
+    <item>
+      <title>Out-of-sample embedding with proximity data: projection versus restricted reconstruction</title>
+      <link>/publication/oos_trosset/</link>
+      <pubDate>Sun, 25 May 2025 01:49:28 -0400</pubDate>
+      <guid>/publication/oos_trosset/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning 1-dimensional submanifolds for subsequent inference on random dot product graphs</title>

@@ -5,12 +5,53 @@
     <link>/author/minh-tang/</link>
       <atom:link href="/author/minh-tang/index.xml" rel="self" type="application/rss+xml" />
     <description>Minh Tang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jan 2024 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Aug 2025 01:49:28 -0400</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu_98e91919b9506612.png</url>
       <title>Minh Tang</title>
       <link>/author/minh-tang/</link>
     </image>
+    
+    <item>
+      <title>Chain-linked multiple matrix integration via embedding alignment</title>
+      <link>/publication/cmmi_zheng/</link>
+      <pubDate>Fri, 15 Aug 2025 01:49:28 -0400</pubDate>
+      <guid>/publication/cmmi_zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A unified framework for community detection and model selection in block models</title>
+      <link>/publication/unified_bhadra/</link>
+      <pubDate>Sun, 25 May 2025 01:49:28 -0400</pubDate>
+      <guid>/publication/unified_bhadra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Out-of-sample embedding with proximity data: projection versus restricted reconstruction</title>
+      <link>/publication/oos_trosset/</link>
+      <pubDate>Sun, 25 May 2025 01:49:28 -0400</pubDate>
+      <guid>/publication/oos_trosset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel network trimming for robust vertex nomination in contaminated networks</title>
+      <link>/publication/vn_peyman/</link>
+      <pubDate>Tue, 25 Mar 2025 01:49:28 -0400</pubDate>
+      <guid>/publication/vn_peyman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eigenvector fluctuations and limit results for random graphs with infinite rank kernels</title>
+      <link>/publication/2_to_infinity_graphon/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/2_to_infinity_graphon/</guid>
+      <description>&lt;p&gt;Paper accepted July 2018.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Exact Recovery of Community Structures Using DeepWalk and Node2vec</title>
@@ -25,6 +66,14 @@
       <link>/publication/du_tang/</link>
       <pubDate>Mon, 28 Aug 2023 11:24:41 -0400</pubDate>
       <guid>/publication/du_tang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Independence testing for inhomogeneous random graphs</title>
+      <link>/publication/cortest_song/</link>
+      <pubDate>Mon, 28 Aug 2023 11:24:41 -0400</pubDate>
+      <guid>/publication/cortest_song/</guid>
       <description></description>
     </item>
     
@@ -65,14 +114,6 @@
       <link>/publication/grdpg/</link>
       <pubDate>Sat, 26 Feb 2022 01:49:28 -0400</pubDate>
       <guid>/publication/grdpg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adversarial contamination of networks in the setting of vertex nomination: a new trimming method</title>
-      <link>/publication/vn_peyman/</link>
-      <pubDate>Fri, 25 Feb 2022 01:49:28 -0400</pubDate>
-      <guid>/publication/vn_peyman/</guid>
       <description></description>
     </item>
     

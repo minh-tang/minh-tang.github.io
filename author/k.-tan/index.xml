@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Tan | Academic</title>
+    <link>/author/k.-tan/</link>
+      <atom:link href="/author/k.-tan/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Tan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 01:49:28 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu_98e91919b9506612.png</url>
+      <title>K. Tan</title>
+      <link>/author/k.-tan/</link>
+    </image>
+    
+    <item>
+      <title>Out-of-sample embedding with proximity data: projection versus restricted reconstruction</title>
+      <link>/publication/oos_trosset/</link>
+      <pubDate>Sun, 25 May 2025 01:49:28 -0400</pubDate>
+      <guid>/publication/oos_trosset/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

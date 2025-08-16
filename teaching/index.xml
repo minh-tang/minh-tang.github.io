@@ -7,7 +7,7 @@
     <description>Teachings</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu_98e91919b9506612.png</url>
       <title>Teachings</title>
       <link>/teaching/</link>
     </image>
@@ -31,293 +31,293 @@ parameters. Students will read papers in the literature and are expected to
 participate actively in class.&lt;/p&gt;
 &lt;h2 id=&#34;syllabus-and-tentative-schedule&#34;&gt;Syllabus and tentative schedule&lt;/h2&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Date&lt;/th&gt;
-&lt;th&gt;Topics&lt;/th&gt;
-&lt;th&gt;Readings&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;08/30&lt;/td&gt;
-&lt;td&gt;Introduction and overview&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;08/31&lt;/td&gt;
-&lt;td&gt;Random graphs models: Erdos-Renyi, stochastic blockmodels, preferential attachments&lt;/td&gt;
-&lt;td&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Date&lt;/th&gt;
+          &lt;th&gt;Topics&lt;/th&gt;
+          &lt;th&gt;Readings&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;08/30&lt;/td&gt;
+          &lt;td&gt;Introduction and overview&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;08/31&lt;/td&gt;
+          &lt;td&gt;Random graphs models: Erdos-Renyi, stochastic blockmodels, preferential attachments&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/math/0504589&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bollobas et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://www.stat.washington.edu/raftery/Research/PDF/hoff2002.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hoff et al.&lt;/a&gt;, 
 &lt;a href=&#34;http://www.math.ucsd.edu/~fan/complex/ch3.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chung and Lu&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09/05&lt;/td&gt;
-&lt;td&gt;Random dot product graphs, adjacency and Laplacian spectral embedding&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09/05&lt;/td&gt;
+          &lt;td&gt;Random dot product graphs, adjacency and Laplacian spectral embedding&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1709.05454&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Athreya et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09/07&lt;/td&gt;
-&lt;td&gt;Matrix concentration inequalities&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09/07&lt;/td&gt;
+          &lt;td&gt;Matrix concentration inequalities&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/0911.0600&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oliviera&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1004.4389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tropp&lt;/a&gt;, 
 &lt;a href=&#34;http://www.combinatorics.org/ojs/index.php/eljc/article/view/v20i4p27&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lu and Peng&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09/10&lt;/td&gt;
-&lt;td&gt;Matrix concentration inequalities (day 2)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09/10&lt;/td&gt;
+          &lt;td&gt;Matrix concentration inequalities (day 2)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/0911.0600&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oliviera&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1004.4389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tropp&lt;/a&gt;, 
 &lt;a href=&#34;http://www.combinatorics.org/ojs/index.php/eljc/article/view/v20i4p27&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lu and Peng&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09/12&lt;/td&gt;
-&lt;td&gt;Matrix concentration inequalities (day 3)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09/12&lt;/td&gt;
+          &lt;td&gt;Matrix concentration inequalities (day 3)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/0911.0600&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oliviera&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1004.4389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tropp&lt;/a&gt;, 
 &lt;a href=&#34;http://www.combinatorics.org/ojs/index.php/eljc/article/view/v20i4p27&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lu and Peng&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09/14&lt;/td&gt;
-&lt;td&gt;Subspace perturbation&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09/14&lt;/td&gt;
+          &lt;td&gt;Subspace perturbation&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1405.0680&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yu et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1007.1684&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rohe et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09/17&lt;/td&gt;
-&lt;td&gt;Subspace perturbation (day 2)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09/17&lt;/td&gt;
+          &lt;td&gt;Subspace perturbation (day 2)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1405.0680&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yu et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1007.1684&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rohe et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09/19&lt;/td&gt;
-&lt;td&gt;Subspace perturbation (day 3)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09/19&lt;/td&gt;
+          &lt;td&gt;Subspace perturbation (day 3)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1605.00353&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cai and Zhang&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09/21&lt;/td&gt;
-&lt;td&gt;Clustering and spectral clustering&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09/21&lt;/td&gt;
+          &lt;td&gt;Clustering and spectral clustering&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/0711.0189&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;von Luxburg&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09/24&lt;/td&gt;
-&lt;td&gt;Clustering and spectral clustering (day 2)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09/24&lt;/td&gt;
+          &lt;td&gt;Clustering and spectral clustering (day 2)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;http://web.cse.ohio-state.edu/~belkin.8/papers/LEM_NIPS_01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Belkin and Niyogi&lt;/a&gt;, 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1063520306000546&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coifman and Lafon&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09/26&lt;/td&gt;
-&lt;td&gt;Clustering and spectral clustering (day 3)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09/26&lt;/td&gt;
+          &lt;td&gt;Clustering and spectral clustering (day 3)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/0804.0678&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;von Luxburg et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09/28&lt;/td&gt;
-&lt;td&gt;Estimation and consistency in stochastic blockmodel and random dot product graphs&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09/28&lt;/td&gt;
+          &lt;td&gt;Estimation and consistency in stochastic blockmodel and random dot product graphs&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1108.2228&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sussman et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1207.6745&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sussman et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1007.1684&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rohe et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/01&lt;/td&gt;
-&lt;td&gt;Estimation and consistency in stochastic blockmodel and random dot product graphs (day 2)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/01&lt;/td&gt;
+          &lt;td&gt;Estimation and consistency in stochastic blockmodel and random dot product graphs (day 2)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1310.0532&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lyzinski et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/03&lt;/td&gt;
-&lt;td&gt;Estimation and consistency in stochastic blockmodel and random dot product graphs (day 3)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/03&lt;/td&gt;
+          &lt;td&gt;Estimation and consistency in stochastic blockmodel and random dot product graphs (day 3)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1503.02115&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lyzinski et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1705.10735&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cape et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/05&lt;/td&gt;
-&lt;td&gt;A central limit theorem for scaled eigenvectors of random dot product graphs&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/05&lt;/td&gt;
+          &lt;td&gt;A central limit theorem for scaled eigenvectors of random dot product graphs&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1305.7388&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Athreya et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/08&lt;/td&gt;
-&lt;td&gt;Limit theorems for eigenvectors of the normalized Laplacian for random graphs&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/08&lt;/td&gt;
+          &lt;td&gt;Limit theorems for eigenvectors of the normalized Laplacian for random graphs&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1607.08601&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tang and Priebe&lt;/a&gt;, 
 &lt;a href=&#34;https://projecteuclid.org/euclid.aoms/1177729330&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chernoff&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1310.1495&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sarkar and Bickel&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/10&lt;/td&gt;
-&lt;td&gt;Limit theorems for eigenvectors of the normalized Laplacian for random graphs (day 2)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/10&lt;/td&gt;
+          &lt;td&gt;Limit theorems for eigenvectors of the normalized Laplacian for random graphs (day 2)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1607.08601&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tang and Priebe&lt;/a&gt;, 
 &lt;a href=&#34;https://projecteuclid.org/euclid.aoms/1177729330&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chernoff&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1310.1495&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sarkar and Bickel&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/12&lt;/td&gt;
-&lt;td&gt;Limit theorems for eigenvectors of the normalized Laplacian for random graphs (day 3)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/12&lt;/td&gt;
+          &lt;td&gt;Limit theorems for eigenvectors of the normalized Laplacian for random graphs (day 3)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1607.08601&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tang and Priebe&lt;/a&gt;, 
 &lt;a href=&#34;https://projecteuclid.org/euclid.aoms/1177729330&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chernoff&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1310.1495&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sarkar and Bickel&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/15&lt;/td&gt;
-&lt;td&gt;Asymptotically efficient estimators for stochastic blockmodels&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/15&lt;/td&gt;
+          &lt;td&gt;Asymptotically efficient estimators for stochastic blockmodels&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1207.0865&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bickel et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1710.10936&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tang et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/17&lt;/td&gt;
-&lt;td&gt;Asymptotically efficient estimators for stochastic blockmodels (day 2)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/17&lt;/td&gt;
+          &lt;td&gt;Asymptotically efficient estimators for stochastic blockmodels (day 2)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1207.0865&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bickel et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1710.10936&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tang et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/19&lt;/td&gt;
-&lt;td&gt;Fall break&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/19&lt;/td&gt;
+          &lt;td&gt;Fall break&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://www.gutenberg.org/files/19942/19942-h/19942-h.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Candide, ou l&amp;rsquo;Optimisme&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/22&lt;/td&gt;
-&lt;td&gt;Asymptotically efficient estimators for stochastic blockmodels (day 3)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/22&lt;/td&gt;
+          &lt;td&gt;Asymptotically efficient estimators for stochastic blockmodels (day 3)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1207.0865&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bickel et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1710.10936&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tang et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/24&lt;/td&gt;
-&lt;td&gt;Two-sample semiparametric testing for random graphs&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/24&lt;/td&gt;
+          &lt;td&gt;Two-sample semiparametric testing for random graphs&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1403.7249&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tang et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/26&lt;/td&gt;
-&lt;td&gt;Two-sample semiparametric testing for random graphs (day 2)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/26&lt;/td&gt;
+          &lt;td&gt;Two-sample semiparametric testing for random graphs (day 2)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1403.7249&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tang et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/29&lt;/td&gt;
-&lt;td&gt;Two-sample semiparametric testing for random graphs (day 3)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/29&lt;/td&gt;
+          &lt;td&gt;Two-sample semiparametric testing for random graphs (day 3)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1705.09355&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Levin et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10/31&lt;/td&gt;
-&lt;td&gt;Two-sample nonparametric testing for random graphs&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/31&lt;/td&gt;
+          &lt;td&gt;Two-sample nonparametric testing for random graphs&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1409.2344&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tang et al.&lt;/a&gt;, 
 &lt;a href=&#34;http://jmlr.csail.mit.edu/papers/v13/gretton12a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gretton et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11/02&lt;/td&gt;
-&lt;td&gt;Two-sample nonparametric testing for random graphs (day 2)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11/02&lt;/td&gt;
+          &lt;td&gt;Two-sample nonparametric testing for random graphs (day 2)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1409.2344&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tang et al.&lt;/a&gt;, 
 &lt;a href=&#34;http://jmlr.csail.mit.edu/papers/v13/gretton12a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gretton et al.&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11/05&lt;/td&gt;
-&lt;td&gt;Universal singula value thresholding&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11/05&lt;/td&gt;
+          &lt;td&gt;Universal singula value thresholding&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1212.1247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chatterjee&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1709.03183&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xu&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11/07&lt;/td&gt;
-&lt;td&gt;Universal singula value thresholding (day 2)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11/07&lt;/td&gt;
+          &lt;td&gt;Universal singula value thresholding (day 2)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1212.1247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chatterjee&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1709.03183&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xu&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11/09&lt;/td&gt;
-&lt;td&gt;Universal singula value thresholding (day 3)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11/09&lt;/td&gt;
+          &lt;td&gt;Universal singula value thresholding (day 3)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1212.1247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chatterjee&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1709.03183&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xu&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11/12&lt;/td&gt;
-&lt;td&gt;Breather day&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11/12&lt;/td&gt;
+          &lt;td&gt;Breather day&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=vzerbXFwGCE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Corrs&lt;/a&gt;, 
 &lt;a href=&#34;https://www.youtube.com/watch?v=rynxqdNMry4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richie Havens&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11/14&lt;/td&gt;
-&lt;td&gt;Exponential random graphs model&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11/14&lt;/td&gt;
+          &lt;td&gt;Exponential random graphs model&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1111.3054&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shalizi and Rinaldo&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11/16&lt;/td&gt;
-&lt;td&gt;Goodness-of-fit test in stochastic blockmodels&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11/16&lt;/td&gt;
+          &lt;td&gt;Goodness-of-fit test in stochastic blockmodels&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1412.4857&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lei&lt;/a&gt;, 
 &lt;a href=&#34;https://projecteuclid.org/euclid.aos/1494921948&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wang and Bickel&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11/26&lt;/td&gt;
-&lt;td&gt;Stochastic blockmodels and limit of detectability&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11/26&lt;/td&gt;
+          &lt;td&gt;Stochastic blockmodels and limit of detectability&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1202.1499&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mossel et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1405.3267&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abbe et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1509.07859&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hajek et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1703.10146&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abbe&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11/28&lt;/td&gt;
-&lt;td&gt;Stochastic blockmodels and limit of detectability (day 2)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11/28&lt;/td&gt;
+          &lt;td&gt;Stochastic blockmodels and limit of detectability (day 2)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1202.1499&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mossel et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1405.3267&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abbe et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1509.07859&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hajek et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1703.10146&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abbe&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11/30&lt;/td&gt;
-&lt;td&gt;Stochastic blockmodels and limit of detectability (day 3)&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11/30&lt;/td&gt;
+          &lt;td&gt;Stochastic blockmodels and limit of detectability (day 3)&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1202.1499&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mossel et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1405.3267&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abbe et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1509.07859&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hajek et al.&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1703.10146&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abbe&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12/03&lt;/td&gt;
-&lt;td&gt;All Caratheodory, all the time&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12/03&lt;/td&gt;
+          &lt;td&gt;All Caratheodory, all the time&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=5WXVaChA3Q0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Staying alive&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12/05&lt;/td&gt;
-&lt;td&gt;Dynkin-Dynkin&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12/05&lt;/td&gt;
+          &lt;td&gt;Dynkin-Dynkin&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=ggUkKaKFv7I&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hey&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12/07&lt;/td&gt;
-&lt;td&gt;Proof of the Riemann hypothesis using elementary linear algebra&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12/07&lt;/td&gt;
+          &lt;td&gt;Proof of the Riemann hypothesis using elementary linear algebra&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=paiQRSpg4Aw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moskau&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
     </item>

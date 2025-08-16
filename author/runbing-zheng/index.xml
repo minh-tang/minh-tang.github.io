@@ -5,12 +5,20 @@
     <link>/author/runbing-zheng/</link>
       <atom:link href="/author/runbing-zheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Runbing Zheng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jun 2022 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Aug 2025 01:49:28 -0400</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu_98e91919b9506612.png</url>
       <title>Runbing Zheng</title>
       <link>/author/runbing-zheng/</link>
     </image>
+    
+    <item>
+      <title>Chain-linked multiple matrix integration via embedding alignment</title>
+      <link>/publication/cmmi_zheng/</link>
+      <pubDate>Fri, 15 Aug 2025 01:49:28 -0400</pubDate>
+      <guid>/publication/cmmi_zheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Limit results for distributed estimation of invariant subspaces in multiple networks inference and PCA</title>

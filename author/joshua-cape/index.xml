@@ -5,12 +5,21 @@
     <link>/author/joshua-cape/</link>
       <atom:link href="/author/joshua-cape/index.xml" rel="self" type="application/rss+xml" />
     <description>Joshua Cape</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Feb 2022 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu_98e91919b9506612.png</url>
       <title>Joshua Cape</title>
       <link>/author/joshua-cape/</link>
     </image>
+    
+    <item>
+      <title>Eigenvector fluctuations and limit results for random graphs with infinite rank kernels</title>
+      <link>/publication/2_to_infinity_graphon/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/2_to_infinity_graphon/</guid>
+      <description>&lt;p&gt;Paper accepted July 2018.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A statistical interpretation of spectral embedding: the generalised random dot product graph</title>

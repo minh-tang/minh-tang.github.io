@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subhankar Bhadra | Academic</title>
+    <link>/author/subhankar-bhadra/</link>
+      <atom:link href="/author/subhankar-bhadra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Subhankar Bhadra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 01:49:28 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu_98e91919b9506612.png</url>
+      <title>Subhankar Bhadra</title>
+      <link>/author/subhankar-bhadra/</link>
+    </image>
+    
+    <item>
+      <title>A unified framework for community detection and model selection in block models</title>
+      <link>/publication/unified_bhadra/</link>
+      <pubDate>Sun, 25 May 2025 01:49:28 -0400</pubDate>
+      <guid>/publication/unified_bhadra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

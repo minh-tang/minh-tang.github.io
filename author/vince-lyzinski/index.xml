@@ -5,26 +5,26 @@
     <link>/author/vince-lyzinski/</link>
       <atom:link href="/author/vince-lyzinski/index.xml" rel="self" type="application/rss+xml" />
     <description>Vince Lyzinski</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 May 2023 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Mar 2025 01:49:28 -0400</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu_98e91919b9506612.png</url>
       <title>Vince Lyzinski</title>
       <link>/author/vince-lyzinski/</link>
     </image>
+    
+    <item>
+      <title>Novel network trimming for robust vertex nomination in contaminated networks</title>
+      <link>/publication/vn_peyman/</link>
+      <pubDate>Tue, 25 Mar 2025 01:49:28 -0400</pubDate>
+      <guid>/publication/vn_peyman/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Numerical tolerance for spectral decompositions of random matrices</title>
       <link>/publication/numtol/</link>
       <pubDate>Thu, 25 May 2023 01:49:28 -0400</pubDate>
       <guid>/publication/numtol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adversarial contamination of networks in the setting of vertex nomination: a new trimming method</title>
-      <link>/publication/vn_peyman/</link>
-      <pubDate>Fri, 25 Feb 2022 01:49:28 -0400</pubDate>
-      <guid>/publication/vn_peyman/</guid>
       <description></description>
     </item>
     

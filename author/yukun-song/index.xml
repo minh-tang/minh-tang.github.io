@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yukun Song | Academic</title>
+    <link>/author/yukun-song/</link>
+      <atom:link href="/author/yukun-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yukun Song</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Aug 2023 11:24:41 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu_98e91919b9506612.png</url>
+      <title>Yukun Song</title>
+      <link>/author/yukun-song/</link>
+    </image>
+    
+    <item>
+      <title>Independence testing for inhomogeneous random graphs</title>
+      <link>/publication/cortest_song/</link>
+      <pubDate>Mon, 28 Aug 2023 11:24:41 -0400</pubDate>
+      <guid>/publication/cortest_song/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
