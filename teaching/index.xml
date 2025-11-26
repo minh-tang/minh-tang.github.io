@@ -5,12 +5,62 @@
     <link>/teaching/</link>
       <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu_98e91919b9506612.png</url>
       <title>Teachings</title>
       <link>/teaching/</link>
     </image>
+    
+    <item>
+      <title>Discrete Math (Toán rời rạc)</title>
+      <link>/teaching/discrete_math/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/teaching/discrete_math/</guid>
+      <description>&lt;h2 id=&#34;lịch-học&#34;&gt;Lịch học&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Date&lt;/th&gt;
+          &lt;th&gt;Topics&lt;/th&gt;
+          &lt;th&gt;Readings&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;25/11&lt;/td&gt;
+          &lt;td&gt;Recurrence&lt;/td&gt;
+          &lt;td&gt;
+&lt;a href=&#34;/files/recurrence.pdf&#34;&gt;Lecture Notes&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;03/12&lt;/td&gt;
+          &lt;td&gt;Đếm và xác suất&lt;/td&gt;
+          &lt;td&gt;
+&lt;a href=&#34;/files/counting.pdf&#34;&gt;Lecture Notes&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/12&lt;/td&gt;
+          &lt;td&gt;Đồ thị và cây&lt;/td&gt;
+          &lt;td&gt;
+&lt;a href=&#34;/files/trees.pdf&#34;&gt;Lecture Notes&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17/12&lt;/td&gt;
+          &lt;td&gt;Đệ quy và giải thuật trên cây&lt;/td&gt;
+          &lt;td&gt;
+&lt;a href=&#34;/files/tree_algo.pdf&#34;&gt;Lecture Notes&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;24/12&lt;/td&gt;
+          &lt;td&gt;Đại số Boole&lt;/td&gt;
+          &lt;td&gt;
+&lt;a href=&#34;/files/boole.pdf&#34;&gt;Lecture Notes&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Statistical inference on graphs</title>

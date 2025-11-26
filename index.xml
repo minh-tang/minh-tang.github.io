@@ -5,12 +5,62 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Aug 2025 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu_98e91919b9506612.png</url>
       <title>Academic</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Discrete Math (Toán rời rạc)</title>
+      <link>/teaching/discrete_math/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/teaching/discrete_math/</guid>
+      <description>&lt;h2 id=&#34;lịch-học&#34;&gt;Lịch học&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Date&lt;/th&gt;
+          &lt;th&gt;Topics&lt;/th&gt;
+          &lt;th&gt;Readings&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;25/11&lt;/td&gt;
+          &lt;td&gt;Recurrence&lt;/td&gt;
+          &lt;td&gt;
+&lt;a href=&#34;/files/recurrence.pdf&#34;&gt;Lecture Notes&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;03/12&lt;/td&gt;
+          &lt;td&gt;Đếm và xác suất&lt;/td&gt;
+          &lt;td&gt;
+&lt;a href=&#34;/files/counting.pdf&#34;&gt;Lecture Notes&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/12&lt;/td&gt;
+          &lt;td&gt;Đồ thị và cây&lt;/td&gt;
+          &lt;td&gt;
+&lt;a href=&#34;/files/trees.pdf&#34;&gt;Lecture Notes&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17/12&lt;/td&gt;
+          &lt;td&gt;Đệ quy và giải thuật trên cây&lt;/td&gt;
+          &lt;td&gt;
+&lt;a href=&#34;/files/tree_algo.pdf&#34;&gt;Lecture Notes&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;24/12&lt;/td&gt;
+          &lt;td&gt;Đại số Boole&lt;/td&gt;
+          &lt;td&gt;
+&lt;a href=&#34;/files/boole.pdf&#34;&gt;Lecture Notes&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Statistical inference on graphs</title>
@@ -323,18 +373,26 @@ participate actively in class.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Chain-linked multiple matrix integration via embedding alignment</title>
-      <link>/publication/cmmi_zheng/</link>
-      <pubDate>Fri, 15 Aug 2025 01:49:28 -0400</pubDate>
-      <guid>/publication/cmmi_zheng/</guid>
+      <title>A unified framework for community detection and model selection in block models</title>
+      <link>/publication/unified_bhadra/</link>
+      <pubDate>Tue, 25 Nov 2025 01:49:28 -0400</pubDate>
+      <guid>/publication/unified_bhadra/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A unified framework for community detection and model selection in block models</title>
-      <link>/publication/unified_bhadra/</link>
-      <pubDate>Sun, 25 May 2025 01:49:28 -0400</pubDate>
-      <guid>/publication/unified_bhadra/</guid>
+      <title>Classification of high-dimensional data with spiked covariance matrix structure</title>
+      <link>/publication/pcalda/</link>
+      <pubDate>Tue, 25 Nov 2025 01:28:25 -0400</pubDate>
+      <guid>/publication/pcalda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chain-linked multiple matrix integration via embedding alignment</title>
+      <link>/publication/cmmi_zheng/</link>
+      <pubDate>Fri, 15 Aug 2025 01:49:28 -0400</pubDate>
+      <guid>/publication/cmmi_zheng/</guid>
       <description></description>
     </item>
     
@@ -456,14 +514,6 @@ participate actively in class.&lt;/p&gt;
       <link>/publication/lseoos/</link>
       <pubDate>Sat, 30 Oct 2021 11:00:21 -0400</pubDate>
       <guid>/publication/lseoos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Classification of high-dimensional data with spiked covariance matrix structure</title>
-      <link>/publication/pcalda/</link>
-      <pubDate>Thu, 07 Oct 2021 01:28:25 -0400</pubDate>
-      <guid>/publication/pcalda/</guid>
       <description></description>
     </item>
     

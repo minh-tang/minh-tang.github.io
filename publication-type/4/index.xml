@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>A unified framework for community detection and model selection in block models</title>
-      <link>/publication/unified_bhadra/</link>
-      <pubDate>Sun, 25 May 2025 01:49:28 -0400</pubDate>
-      <guid>/publication/unified_bhadra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Out-of-sample embedding with proximity data: projection versus restricted reconstruction</title>
       <link>/publication/oos_trosset/</link>
       <pubDate>Sun, 25 May 2025 01:49:28 -0400</pubDate>
@@ -58,14 +50,6 @@
       <link>/publication/rsvd/</link>
       <pubDate>Mon, 21 Mar 2022 01:49:28 -0400</pubDate>
       <guid>/publication/rsvd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Classification of high-dimensional data with spiked covariance matrix structure</title>
-      <link>/publication/pcalda/</link>
-      <pubDate>Thu, 07 Oct 2021 01:28:25 -0400</pubDate>
-      <guid>/publication/pcalda/</guid>
       <description></description>
     </item>
     
