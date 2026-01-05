@@ -49,30 +49,17 @@ style_duo_accent(primary_color = "#035AA6", secondary_color = "#03A696",
 )
 ```
 
-```{r generate-qr-code, echo=FALSE, message=FALSE}
-library(qrcode)
-# Replace the URL with the actual URL of your hosted slides
-slide_url <- "https://itmfl.github.io/st442/01_overview"
-qrcode::qr_code(slide_url) |> 
-  qrcode::generate_svg("slides_qrcode.svg", background = "transparent", show = FALSE)
-```
-
-<img src="slides_qrcode.svg" style="position: absolute; top: 10px; right: 10px; width: 100px;" />
-
 ```{r echo = FALSE, fig.align = "center", out.width="80%"}
 knitr::include_graphics("figures/inference1.png")
 knitr::include_graphics("figures/inference2.png")
 ```
 
-<img src="slides_qrcode.svg" style="position: absolute; top: 10px; right: 10px; width: 100px;" />
 ---
 
 ## Statistical inference
 ```{r echo = FALSE, fig.align="center", out.width="100%", fig.cap = "Text taken from Wikipedia."}
 knitr::include_graphics("figures/inference4.png")
 ```
-
-<img src="slides_qrcode.svg" style="position: absolute; top: 10px; right: 10px; width: 100px;" />
 
 ---
 
