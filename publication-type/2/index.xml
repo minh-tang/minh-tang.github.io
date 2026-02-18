@@ -5,7 +5,7 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jan 2026 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu_98e91919b9506612.png</url>
       <title>2</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>A unified framework for community detection and model selection in block models</title>
-      <link>/publication/unified_bhadra/</link>
-      <pubDate>Tue, 25 Nov 2025 01:49:28 -0400</pubDate>
-      <guid>/publication/unified_bhadra/</guid>
+      <title>Perturbation analysis of randomized SVD and its applications to high-dimensional statistics</title>
+      <link>/publication/rsvd/</link>
+      <pubDate>Wed, 21 Jan 2026 01:49:28 -0400</pubDate>
+      <guid>/publication/rsvd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classification of high-dimensional data with spiked covariance matrix structure</title>
       <link>/publication/pcalda/</link>
-      <pubDate>Tue, 25 Nov 2025 01:28:25 -0400</pubDate>
+      <pubDate>Wed, 21 Jan 2026 01:28:25 -0400</pubDate>
       <guid>/publication/pcalda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A unified framework for community detection and model selection in block models</title>
+      <link>/publication/unified_bhadra/</link>
+      <pubDate>Tue, 25 Nov 2025 01:49:28 -0400</pubDate>
+      <guid>/publication/unified_bhadra/</guid>
       <description></description>
     </item>
     

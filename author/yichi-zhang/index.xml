@@ -5,7 +5,7 @@
     <link>/author/yichi-zhang/</link>
       <atom:link href="/author/yichi-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yichi Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jan 2024 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jan 2026 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu_98e91919b9506612.png</url>
       <title>Yichi Zhang</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Exact Recovery of Community Structures Using DeepWalk and Node2vec</title>
-      <link>/publication/node2vec/</link>
-      <pubDate>Wed, 31 Jan 2024 01:49:28 -0400</pubDate>
-      <guid>/publication/node2vec/</guid>
+      <title>Perturbation analysis of randomized SVD and its applications to high-dimensional statistics</title>
+      <link>/publication/rsvd/</link>
+      <pubDate>Wed, 21 Jan 2026 01:49:28 -0400</pubDate>
+      <guid>/publication/rsvd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Perturbation analysis of randomized SVD and its applications to high-dimensional statistics</title>
-      <link>/publication/rsvd/</link>
-      <pubDate>Mon, 21 Mar 2022 01:49:28 -0400</pubDate>
-      <guid>/publication/rsvd/</guid>
+      <title>Exact Recovery of Community Structures Using DeepWalk and Node2vec</title>
+      <link>/publication/node2vec/</link>
+      <pubDate>Wed, 31 Jan 2024 01:49:28 -0400</pubDate>
+      <guid>/publication/node2vec/</guid>
       <description></description>
     </item>
     

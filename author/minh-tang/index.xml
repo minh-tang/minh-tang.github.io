@@ -5,12 +5,36 @@
     <link>/author/minh-tang/</link>
       <atom:link href="/author/minh-tang/index.xml" rel="self" type="application/rss+xml" />
     <description>Minh Tang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 01:49:28 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Feb 2026 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu_98e91919b9506612.png</url>
       <title>Minh Tang</title>
       <link>/author/minh-tang/</link>
     </image>
+    
+    <item>
+      <title>Out-of-sample embedding with proximity data: projection versus restricted reconstruction</title>
+      <link>/publication/oos_trosset/</link>
+      <pubDate>Tue, 17 Feb 2026 01:49:28 -0400</pubDate>
+      <guid>/publication/oos_trosset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perturbation analysis of randomized SVD and its applications to high-dimensional statistics</title>
+      <link>/publication/rsvd/</link>
+      <pubDate>Wed, 21 Jan 2026 01:49:28 -0400</pubDate>
+      <guid>/publication/rsvd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of high-dimensional data with spiked covariance matrix structure</title>
+      <link>/publication/pcalda/</link>
+      <pubDate>Wed, 21 Jan 2026 01:28:25 -0400</pubDate>
+      <guid>/publication/pcalda/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A unified framework for community detection and model selection in block models</title>
@@ -21,26 +45,10 @@
     </item>
     
     <item>
-      <title>Classification of high-dimensional data with spiked covariance matrix structure</title>
-      <link>/publication/pcalda/</link>
-      <pubDate>Tue, 25 Nov 2025 01:28:25 -0400</pubDate>
-      <guid>/publication/pcalda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chain-linked multiple matrix integration via embedding alignment</title>
       <link>/publication/cmmi_zheng/</link>
       <pubDate>Fri, 15 Aug 2025 01:49:28 -0400</pubDate>
       <guid>/publication/cmmi_zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Out-of-sample embedding with proximity data: projection versus restricted reconstruction</title>
-      <link>/publication/oos_trosset/</link>
-      <pubDate>Sun, 25 May 2025 01:49:28 -0400</pubDate>
-      <guid>/publication/oos_trosset/</guid>
       <description></description>
     </item>
     
@@ -106,14 +114,6 @@
       <link>/publication/cosie_pca/</link>
       <pubDate>Thu, 09 Jun 2022 01:49:28 -0400</pubDate>
       <guid>/publication/cosie_pca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perturbation analysis of randomized SVD and its applications to high-dimensional statistics</title>
-      <link>/publication/rsvd/</link>
-      <pubDate>Mon, 21 Mar 2022 01:49:28 -0400</pubDate>
-      <guid>/publication/rsvd/</guid>
       <description></description>
     </item>
     
