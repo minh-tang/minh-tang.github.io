@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Mar 2026 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu_98e91919b9506612.png</url>
       <title>Academic</title>
@@ -379,6 +379,14 @@ participate actively in class.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</title>
+      <link>/publication/nonpar2/</link>
+      <pubDate>Mon, 30 Mar 2026 01:49:28 -0400</pubDate>
+      <guid>/publication/nonpar2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Out-of-sample embedding with proximity data: projection versus restricted reconstruction</title>
       <link>/publication/oos_trosset/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
@@ -544,14 +552,6 @@ participate actively in class.&lt;/p&gt;
       <link>/publication/latent_structure_model/</link>
       <pubDate>Sun, 28 Feb 2021 01:53:46 -0400</pubDate>
       <guid>/publication/latent_structure_model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</title>
-      <link>/publication/nonpar2/</link>
-      <pubDate>Sun, 20 Dec 2020 01:49:28 -0400</pubDate>
-      <guid>/publication/nonpar2/</guid>
       <description></description>
     </item>
     
