@@ -5,12 +5,20 @@
     <link>/author/joshua-agterberg/</link>
       <atom:link href="/author/joshua-agterberg/index.xml" rel="self" type="application/rss+xml" />
     <description>Joshua Agterberg</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Feb 2022 01:28:25 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Mar 2026 01:49:28 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu_98e91919b9506612.png</url>
       <title>Joshua Agterberg</title>
       <link>/author/joshua-agterberg/</link>
     </image>
+    
+    <item>
+      <title>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</title>
+      <link>/publication/nonpar2/</link>
+      <pubDate>Mon, 30 Mar 2026 01:49:28 -0400</pubDate>
+      <guid>/publication/nonpar2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Valid two-sample graph testing via optimal transport Procrustes and multiscale graph correlation with applications in connectomics</title>
